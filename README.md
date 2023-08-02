@@ -46,7 +46,7 @@
  - [DSVisual](https://github.com/Sunrisepeak/DVisual)
 
 **Operating System** - Audio, Video, Vibration
- - MIUI(Base on AOSP): Audio / Vibration Subsystem
+ - MIUI / AOSP : Audio/Vibration Subsystem
 
 **Kernel** - Linux / RT-Kernel
 
