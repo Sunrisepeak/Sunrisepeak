@@ -30,7 +30,7 @@
 
 <h2></h2>
 
-### Interests & Related work
+### Interest & Related work
 
 **Application** - Audio/Video, Tools, Games
  - 🔥[KHistory](https://github.com/Sunrisepeak/KHistory): an elegant keystrokes detect tools | 一个优雅&跨平台的 键盘/🎮手柄按键 检测及历史记录显示工具
