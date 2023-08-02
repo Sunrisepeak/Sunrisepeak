@@ -1,8 +1,12 @@
-### Hi 👋, I'm Sunrisepeak/SPeak/言峰
+### Hi👋, I'm Sunrisepeak/SPeak/言峰
 
 **A full-stack software developer**
 
 <br>
+
+<!--
+
+![Sunrisepeak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunrisepeak&show_icons=true&count_private=true)
 
 <p align="center">
   <a href="https://github.com/Sunrisepeak" class="rich-diff-level-one">
@@ -10,6 +14,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunrisepeak&layout=compact" alt="Sunrisepeak's Top Langs" >
   </a>
 </p>
+-->
 
 <p align="center">
   <a href="https://space.bilibili.com/65858958" target="_blank" alt="Bilibili" title="Bilibili">
@@ -33,10 +38,10 @@
 ### Interest & Related work
 
 **Application** - Audio/Video, Tools, Games
- - 🔥[KHistory](https://github.com/Sunrisepeak/KHistory): an elegant keystrokes detect tools | 一个优雅&跨平台的 键盘/🎮手柄按键 检测及历史记录显示工具
+ - [KHistory](https://github.com/Sunrisepeak/KHistory): 🔥an elegant keystrokes detect tools | 一个优雅&跨平台的 键盘/🎮手柄按键 检测及历史记录显示工具
 
 **Infrastructure Software** - Data Structure, Graphics, GUI
- - 🔥[DStruct](https://github.com/Sunrisepeak/KHistory)  : an easy-to-port/learn/use C++ data structure template library | 一个易于移植/使用/学习且结构简洁的数据结构模板库
+ - [DStruct](https://github.com/Sunrisepeak/KHistory)  : 🔥 an easy-to-port/learn/use C++ data structure template library | 一个易于移植/使用/学习且结构简洁的数据结构模板库
  - [tinysyscall](https://github.com/Sunrisepeak/tinysyscall) : a (no depend std) tiny syscall abstract layer
  - [DSVisual](https://github.com/Sunrisepeak/DVisual)
 
