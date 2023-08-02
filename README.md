@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://github.com/Sunrisepeak" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=Sunrisepeak&hide_rank=true" alt="Sunrisepeak's Stats" >
-    &emsp; &emsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunrisepeak&layout=compact" alt="Sunrisepeak's Top Langs" >
   </a>
 </p>
