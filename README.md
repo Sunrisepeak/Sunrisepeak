@@ -41,7 +41,7 @@
  - [KHistory](https://github.com/Sunrisepeak/KHistory): 🔥an elegant keystrokes detect tools | 一个优雅&跨平台的 键盘/🎮手柄按键 检测及历史记录显示工具
 
 **Infrastructure Software** - Data Structure, Graphics, GUI
- - [DStruct](https://github.com/Sunrisepeak/KHistory)  : 🔥 an easy-to-port/learn/use C++ data structure template library | 一个易于移植/使用/学习且结构简洁的数据结构模板库
+ - [DStruct](https://github.com/Sunrisepeak/DStruct)  : 🔥 an easy-to-port/learn/use C++ data structure template library | 一个易于移植/使用/学习且结构简洁的数据结构模板库
  - [tinysyscall](https://github.com/Sunrisepeak/tinysyscall) : a (no depend std) tiny syscall abstract layer
  - [DSVisual](https://github.com/Sunrisepeak/DVisual)
 
