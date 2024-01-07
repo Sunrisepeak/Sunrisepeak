@@ -1,6 +1,6 @@
 ### Hi👋, I'm Sunrisepeak/SPeak/言峰
 
-**A full-stack software developer**
+**A software developer**
 
 <br>
 
