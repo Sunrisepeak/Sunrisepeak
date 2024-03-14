@@ -38,7 +38,8 @@
 ### Interest & Related work
 
 **Documents** - Tech-Docs / EBook / Code Demo
-- [HelloWorld](https://github.com/Sunrisepeak/HelloWorld) : 一个存放各种方向上 HelloWorld级别的 入门/介绍程序及环境搭建文章及相关分析/分享视频的仓库
+- [HelloWorld](https://github.com/Sunrisepeak/HelloWorld) : <<和我一起写HelloWorld>> 代码/文档/视频仓库
+- [d2ds](https://github.com/Sunrisepeak/d2ds) : <<动手写数据结构>> | [在线阅读](https://sunrisepeak.github.io/d2ds)
 
 **Application** - Audio/Video, Tools, Games
  - [KHistory](https://github.com/Sunrisepeak/KHistory): 🔥an elegant keystrokes detect tools | 一个优雅&跨平台的 键盘/🎮手柄按键 检测及历史记录显示工具
