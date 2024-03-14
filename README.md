@@ -38,7 +38,7 @@
 ### Interest & Related work
 
 **Documents** - Tech-Docs / EBook / Code Demo
-- [HelloWorld](https://github.com/Sunrisepeak/HelloWorld) : **<<和我一起写HelloWorld>>** | 代码/文档/视频仓库
+- [HelloWorld](https://github.com/Sunrisepeak/HelloWorld) : **<<一起写HelloWorld>>** | 代码/文档/视频仓库
 - [d2ds](https://github.com/Sunrisepeak/d2ds) : **<<动手写数据结构>>** | [在线阅读](https://sunrisepeak.github.io/d2ds)
 - [devicetree-specification-chinese](https://github.com/Sunrisepeak/devicetree-specification-chinese) : **<<设备树规格书 中文版>>**
 
