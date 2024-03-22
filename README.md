@@ -37,6 +37,9 @@
 
 ### Interest & Related work
 
+**Courses/Tutorials** - CS
+- [d2ds-courses](https://github.com/Sunrisepeak/d2ds-courses) : **动手写数据结构(d2ds)开源课程** | [课程主页](https://sunrisepeak.github.io/d2ds-courses/)
+
 **Documents** - Tech-Docs / EBook / Code Demo
 - [HelloWorld](https://github.com/Sunrisepeak/HelloWorld) : **<<一起写HelloWorld>>** | 代码/文档/视频仓库
 - [d2ds](https://github.com/Sunrisepeak/d2ds) : **<<动手写数据结构>>** | [在线阅读](https://sunrisepeak.github.io/d2ds)
