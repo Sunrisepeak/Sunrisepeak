@@ -44,6 +44,7 @@
 - [HelloWorld](https://github.com/Sunrisepeak/HelloWorld) : **<<一起写HelloWorld>>** | 代码/文档/视频仓库
 - [d2ds](https://github.com/Sunrisepeak/d2ds) : **<<动手写数据结构>>** | [在线阅读](https://sunrisepeak.github.io/d2ds)
 - [devicetree-specification-chinese](https://github.com/Sunrisepeak/devicetree-specification-chinese) : **<<设备树规格书 中文版>>**
+- [codestyle](https://github.com/Sunrisepeak/codestyle) : a simple code style guide | 简单的代码风格指南
 
 **Application** - Audio/Video, Tools, Games
  - [KHistory](https://github.com/Sunrisepeak/KHistory): an elegant keystrokes detect tools | 一个优雅&跨平台的 键盘/🎮手柄按键 检测及历史记录显示工具
