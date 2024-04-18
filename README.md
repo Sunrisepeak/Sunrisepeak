@@ -1,4 +1,4 @@
-### Hi👋, I'm Sunrisepeak/SPeak/言峰
+### Hi👋, I'm Sunrisepeak/SPeak
 
 **A software developer**
 
