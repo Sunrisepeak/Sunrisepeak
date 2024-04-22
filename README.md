@@ -37,7 +37,7 @@
 
 ### Interest & Related work
 
-**community**
+**Community**
 - [opensource-community](https://github.com/Sunrisepeak/opensource-community) : 开源社区|开源项目-可持续发展相关问题讨论研究
 
 **Courses/Tutorials** - CS
