@@ -37,11 +37,14 @@
 
 ### Interest & Related work
 
+**community**
+- [opensource-community](https://github.com/Sunrisepeak/opensource-community) : 开源社区|开源项目-可持续发展相关问题讨论研究
+
 **Courses/Tutorials** - CS
-- [d2ds-courses](https://github.com/Sunrisepeak/d2ds-courses) : **动手写数据结构(d2ds)开源课程** | [课程主页](https://sunrisepeak.github.io/d2ds-courses/)
+- [d2ds-courses](https://github.com/Sunrisepeak/d2ds-courses) : 动手写数据结构(d2ds)开源课程 | [课程主页](https://sunrisepeak.github.io/d2ds-courses/)
 
 **Documents** - Tech-Docs / EBook / Code Demo
-- [HelloWorld](https://github.com/Sunrisepeak/HelloWorld) : **<<一起写HelloWorld>>** | 代码/文档/视频仓库
+- [HelloWorld](https://github.com/Sunrisepeak/HelloWorld) : 环境搭建、代码示例、技术交流
 - [d2ds](https://github.com/Sunrisepeak/d2ds) : **<<动手写数据结构>>** | [在线阅读](https://sunrisepeak.github.io/d2ds)
 - [devicetree-specification-chinese](https://github.com/Sunrisepeak/devicetree-specification-chinese) : **<<设备树规格书 中文版>>**
 - [codestyle](https://github.com/Sunrisepeak/codestyle) : a simple code style guide | 简单的代码风格指南
