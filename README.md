@@ -1,6 +1,6 @@
 ### Hi👋, I'm Sunrisepeak/SPeak
 
-**A software developer**
+**Developer & Explorer**
 
 <br>
 
