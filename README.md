@@ -59,6 +59,7 @@
 
 **Infrastructure Software/Libs** - Data Structure, Graphics, GUI
  - [DStruct](https://github.com/Sunrisepeak/DStruct)  : 🔥 an easy-to-port/learn/use C++ data structure template library | 一个易于移植/使用/学习且结构简洁的数据结构模板库
+ - [gl-interface](https://github.com/Sunrisepeak/gl-interface)  : 一个跨平台的图形库抽象层
  - [honly](https://github.com/Sunrisepeak/honly)  : honly is a collection of header-only libraries | honly 是一个header-only库集合
 
 **Operating System** - Audio, Video, Vibration
