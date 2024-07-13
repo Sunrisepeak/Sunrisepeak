@@ -38,7 +38,7 @@
 ### Interest & Related work
 
 **Community**
-- [opensource-community](https://github.com/Sunrisepeak/opensource-community) : 开源社区|开源项目-可持续发展相关问题讨论研究
+- [opensource-community](https://github.com/Sunrisepeak/opensource-community) : 开源社区|开源项目|技术交流-可持续发展相关问题讨论研究
 
 **Courses/Tutorials** - CS
 - [d2ds-courses](https://github.com/Sunrisepeak/d2ds-courses) : 动手写数据结构(d2ds)开源课程 | [课程主页](https://sunrisepeak.github.io/d2ds-courses/)
@@ -53,7 +53,7 @@
  - [KHistory](https://github.com/Sunrisepeak/KHistory): an elegant keystrokes detect tools | 一个优雅&跨平台的 键盘/🎮手柄按键 检测及历史记录显示工具
 
 **Framework**
- - [Hanim](https://github.com/Sunrisepeak/Hanim) : HAnim is a frame-driven, cross-platform animation framework that separates animation behavior from animation objects | Hanim是一个帧驱动, 跨平台且动画行为与动画对象分离的动画框架
+ - [Hanim](https://github.com/Sunrisepeak/Hanim) : Animation Engine | 动画引擎 | WIP
  - [DSVisual](https://github.com/Sunrisepeak/DSVisual) : 基于DStruct的数据结构可视化组件库&开发框架 | data-structures visual component library & development framework based on DStruct
 
 **Infrastructure Software/Libs** - Data Structure, Graphics, GUI
