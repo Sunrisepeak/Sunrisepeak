@@ -38,6 +38,7 @@
 ### Interest & Related work
 
 **Community**
+- [d2learn forums](https://forum.d2learn.org) : 一个技术知识分享、交流的论坛
 - [opensource-community](https://github.com/Sunrisepeak/opensource-community) : 开源社区|开源项目|技术交流-可持续发展相关问题讨论研究
 
 **Courses/Tutorials** - CS
