@@ -21,12 +21,16 @@
     <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="32px"/>
   </a>
   &emsp;
-  <a href="https://www.youtube.com/channel/UCOD0QsEX__8AWBNFu0yE3HA" target="_blank" alt="YouTube" title="YouTube">
+  <a href="https://www.youtube.com/@sunrisepeak" target="_blank" alt="YouTube" title="YouTube">
     <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="32px"/>
   </a>
   &emsp;
   <a href="https://www.zhihu.com/people/SPeakShen" target="_blank" alt="Zhihu" title="Zhihu">
     <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="32px"/>
+  </a>
+  &emsp;
+  <a href="https://x.com/sunrisepeak_x" target="_blank" alt="twitter" title="twitter">
+    <img src="https://github.com/user-attachments/assets/8238a27f-703a-4f39-b680-62f61f689e13" width="32px"/>
   </a>
   &emsp;
   <br><br>
@@ -38,7 +42,7 @@
 ### Interest & Related work
 
 **Community**
-- [d2learn forums](https://forum.d2learn.org) : 一个技术知识分享、交流的论坛 | 公开课 | 开源讨论 | 博客 | 问答 | 在线工具 |
+- [d2learn community](https://forum.d2learn.org) : 一个 <知识、技术、创意/> 分享和交流的社区 | [论坛](https://forum.d2learn.org)
 - [opensource-community](https://github.com/Sunrisepeak/opensource-community) : 开源社区|开源项目|技术交流-可持续发展相关问题讨论研究
 
 **Courses/Tutorials** - CS
@@ -52,6 +56,7 @@
 
 **Application** - Audio/Video, Tools, Games
  - [KHistory](https://github.com/Sunrisepeak/KHistory): an elegant keystrokes detect tools | 一个优雅&跨平台的 键盘/🎮手柄按键 检测及历史记录显示工具
+ - [xlings](https://github.com/d2learn/xlings): 🔥一个编程学习和课程搭建工具🛠️
 
 **Framework**
  - [Hanim](https://github.com/Sunrisepeak/Hanim) : Animation Engine | 动画引擎 | WIP
