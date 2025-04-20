@@ -39,28 +39,33 @@
 
 <h2></h2>
 
+<p align="center">
+  <a href="https://forum.d2learn.org" target="_blank" alt="d2learn" title="d2learn">
+    <img src="https://github.com/user-attachments/assets/e7f90b01-9272-47f9-9eba-866df290bae9"/>
+  </a>
+</p>
+
+<h2></h2>
+
 ### Interest & Related work
 
 **Community**
-- [d2learn community](https://forum.d2learn.org) : 一个 <知识、技术、创意/> 分享和交流的社区 | [论坛](https://forum.d2learn.org)
-- [opensource-community](https://github.com/Sunrisepeak/opensource-community) : 开源社区|开源项目|技术交流-可持续发展相关问题讨论研究
+- [d2learn forums](https://forum.d2learn.org) : 一个 <知识、技术、创意/> 分享和交流的社区 | [论坛](https://forum.d2learn.org)
 
 **Courses/Tutorials** - CS
-- [d2ds-courses](https://github.com/Sunrisepeak/d2ds-courses) : 动手写数据结构(d2ds)开源课程 | [课程主页](https://sunrisepeak.github.io/d2ds-courses/)
+- [d2ds](https://github.com/d2learn/d2ds) : 动手写数据结构(d2ds)开源课程 | 文档 + 代码 + 视频 + 动画
+- [mcpp-standard](https://github.com/Sunrisepeak/mcpp-standard) : 现代C++核心语言特性代码练习项目 | 支持自动化练习引导
 
 **Documents** - Tech-Docs / EBook / Code Demo
 - [HelloWorld](https://github.com/Sunrisepeak/HelloWorld) : 环境搭建、代码示例、技术交流
-- [d2ds](https://github.com/Sunrisepeak/d2ds) : **<<动手写数据结构>>** | [在线阅读](https://sunrisepeak.github.io/d2ds)
 - [devicetree-specification-chinese](https://github.com/Sunrisepeak/devicetree-specification-chinese) : **<<设备树规格书 中文版>>**
-- [codestyle](https://github.com/Sunrisepeak/codestyle) : a simple code style guide | 简单的代码风格指南
 
 **Application** - Audio/Video, Tools, Games
  - [KHistory](https://github.com/Sunrisepeak/KHistory): an elegant keystrokes detect tools | 一个优雅&跨平台的 键盘/🎮手柄按键 检测及历史记录显示工具
- - [xlings](https://github.com/d2learn/xlings): 🔥一个编程学习和课程搭建工具🛠️
+ - [xlings](https://github.com/d2learn/xlings): 🔥一个跨平台的开发者工具 - 包管理器 + 多版本管理 + 项目搭建🛠️
 
 **Framework**
  - [Hanim](https://github.com/Sunrisepeak/Hanim) : Animation Engine | 动画引擎 | WIP
- - [DSVisual](https://github.com/Sunrisepeak/DSVisual) : 基于DStruct的数据结构可视化组件库&开发框架 | data-structures visual component library & development framework based on DStruct
 
 **Infrastructure Software/Libs** - Data Structure, Graphics, GUI
  - [DStruct](https://github.com/Sunrisepeak/DStruct)  : 🔥 an easy-to-port/learn/use C++ data structure template library | 一个易于移植/使用/学习且结构简洁的数据结构模板库
