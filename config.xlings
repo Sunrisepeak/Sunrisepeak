@@ -1,0 +1,16 @@
+xname = "Sunrisepeak"
+
+xim = {
+    pnpm = "",
+    xppcmds = {
+        "pnpm install",
+    }
+}
+
+d2x = {
+    commands = {
+        install = "xlings install",
+        run = "pnpm run docs:dev",
+        build = "pnpm run docs:build",
+    }
+}
