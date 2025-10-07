@@ -13,6 +13,11 @@ defineProps({
     default: '#f3f4f6'
   }
 })
+
+const isExternalLink = (url) => {
+  return /^(https?:)?\/\//.test(url)
+}
+
 </script>
 
 <template>
@@ -23,8 +28,8 @@ defineProps({
         v-for="(item, index) in lists"
         :key="index"
         :href="item.url"
-        target="_blank"
-        rel="noopener noreferrer"
+        :target="isExternalLink(item.url) ? '_blank' : null"
+        :rel="isExternalLink(item.url) ? 'noopener noreferrer' : null"
         class="grid-item"
       >
         <div

@@ -22,7 +22,7 @@ hero:
 
 features:
   - title: 我是谁
-    details: 软件工程师、xlings作者、开源爱好者、技术博主。时而抽象, 时而正经
+    details: 软件工程师、xlings作者、开源爱好者、技术博主。时而抽象, 时而正经, 仰望星空, 脚踏实地
   - title: 从哪来
     details: 2020年毕业, 通过校招加入小米, 参与MIUI和HyperOS操作系统开发工作; 2023年起专注于开源生态与可持续发展的探索和研究, 随后创建了d2learn社区、xlings包管理器、mcpp教程等项目...
   - title: 要到哪去
@@ -86,7 +86,7 @@ const current_projects = [
   {
     name: 'xlings',
     img: 'https://xlings.d2learn.org/imgs/xlings-logo.png',
-    url: 'https://xlings.d2learn.org',
+    url: 'opensource/xlings',
     desc: '高度抽象的包管理器',
   },
   {
@@ -97,24 +97,18 @@ const current_projects = [
   },
   {
     name: 'mcpp-standard',
-    url: 'https://github.com/Sunrisepeak/mcpp-standard',
+    url: 'opensource/mcpp-standard',
     desc: '交互式现代C++教程',
   },
   {
-    name: 'dstruct',
-    url: 'https://github.com/Sunrisepeak/dstruct',
-    desc: '数据结构库',
-  },
-  {
-    name: 'd2ds',
-    img: 'imgs/d2ds.png',
-    url: 'https://d2learn.github.io/MOGA',
-    desc: '交互式数据结构教程',
-  },
-  {
     name: 'MOGA',
-    url: 'https://d2learn.github.io/MOGA',
+    url: 'opensource/moga',
     desc: '让开源再次伟大',
+  },
+  {
+    name: '...',
+    url: 'opensource/intro',
+    desc: '更多',
   },
 ]
 
@@ -130,4 +124,4 @@ const activities = [
 
 <RecentActivity :items="activities" />
 <ProjectGallery title="当前维护的项目" :lists="current_projects" />
-<ProjectGallery title="PR过的开源项目" :lists="pr_projects" />
+<ProjectGallery title="参与过贡献的开源项目" :lists="pr_projects" />
