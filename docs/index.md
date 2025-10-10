@@ -6,6 +6,8 @@ hero:
   name: "SPeak | 言峰"
   text: "Sunrisepeak"
   tagline: 观察者、探索者和开发者 -> 仰望星空, 脚踏实地
+  image:
+    src: '/imgs/sunrisepeak.png'
   actions:
     - theme: alt
       text: Github
@@ -17,12 +19,12 @@ hero:
       text: Youtube
       link: https://www.youtube.com/@sunrisepeak
     - theme: brand
-      text: 最近动态 ->
-      link: /about/recent-activity/intro.md
+      text: 关于我 ->
+      link: /about/intro.md
 
 features:
   - title: 我是谁
-    details: 软件工程师、xlings作者、开源爱好者、技术博主。时而抽象, 时而正经, 仰望星空, 脚踏实地
+    details: 软件工程师、xlings作者、d2learn社区开发者、开源爱好者、技术博主。时而抽象, 时而正经, 仰望星空, 脚踏实地
   - title: 从哪来
     details: 2020年毕业, 通过校招加入小米, 参与MIUI和HyperOS操作系统开发工作; 2023年起专注于开源生态与可持续发展的探索和研究, 随后创建了d2learn社区、xlings包管理器、mcpp教程等项目...
   - title: 要到哪去
@@ -78,7 +80,7 @@ const pr_projects = [
   {
     name: 'project-graph',
     img: 'imgs/project-graph.svg',
-    url: 'https://github.com/ant-design/ant-design'
+    url: 'https://github.com/graphif/project-graph'
   },
 ]
 
@@ -102,7 +104,7 @@ const current_projects = [
   },
   {
     name: 'MOGA',
-    url: 'opensource/moga',
+    url: 'community/moga',
     desc: '让开源再次伟大',
   },
   {
@@ -115,8 +117,12 @@ const current_projects = [
 
 const activities = [
   {
-    title: '🎉 搭建个人主页(初步) - 2025/10/07🎉',
-    url: 'https://github.com/d2learn/xim-pkgindex',
+    title: '🎉 搭建个人主页(初步) - 2025/10/07 🎉',
+    url: 'https://github.com/d2learn',
+  },
+  {
+    title: '填充基础内容 - 2025/10/10',
+    url: 'https://github.com/d2learn',
   },
 ]
 

@@ -19,11 +19,12 @@ export default defineConfig({
         ]
       },
       {
-        text: '社区/组织',
+        text: '社区',
         items: [
-          { text: 'd2learn 开源', link: 'https://github.com/d2learn' },
-          { text: 'd2learn 论坛', link: 'https://forum.d2learn.org' },
-          { text: 'MOGA 让开源再次伟大', link: 'https://d2learn.github.io/MOGA' },
+          { text: 'd2learn 社区', link: '/community/d2learn/intro.md' },
+          { text: 'd2learn 开源', link: '/community/d2learn/d2learn-opensource.md' },
+          { text: 'd2learn 论坛', link: '/community/d2learn/d2learn-forum.md' },
+          { text: 'MOGA 让开源再次伟大', link: '/community/moga.md' },
         ]
       },
       {
@@ -51,20 +52,30 @@ export default defineConfig({
       {
         text: '关于',
         items: [
+          { text: '关于我', link: '/about/intro.md' },
+          { text: '照片追忆', link: '/about/photo-memory.md' },
           { text: '最近动态', link: '/about/recent-activity/intro.md' },
         ]
       }
     ],
 
     sidebar: {
-      '/about/recent-activity' : [
-        { text: '最近动态', link: '/about/recent-activity/intro.md' },
+      '/about/' : [
+        { text: '关于我', link: '/about/intro.md' },
+        { text: '照片追忆', link: '/about/photo-memory.md' },
         {
-          text: '2025',
+          text: '最近动态',
+          collapsed: true,
           items: [
-            { text: '2025-10', link: '/about/recent-activity/2025/2025-10.md' },
-          ],
-        },
+            { text: '简介', link: '/about/recent-activity/intro.md' },
+            {
+              text: '2025',
+              items: [
+                { text: '2025-10', link: '/about/recent-activity/2025/2025-10.md' },
+              ],
+            },
+          ]
+        }
       ],
       '/opensource/' : [
         { text: '开源主页', link: '/opensource/intro.md' },
@@ -74,6 +85,17 @@ export default defineConfig({
         { text: 'khistory | 按键检测可视化工具', link: '/opensource/khistory.md' },
         { text: 'mcpp | 交互式现代C++教程', link: '/opensource/mcpp-standard.md' },
         { text: 'd2ds | 交互式数据结构教程', link: '/opensource/d2ds.md' },
+      ],
+      '/community/' : [
+        {
+          text: '[ d2learn社区 ]',
+          items: [
+            { text: '简介', link: '/community/d2learn/intro.md' },
+            { text: 'd2learn 开源', link: '/community/d2learn/d2learn-opensource.md' },
+            { text: 'd2learn 论坛', link: '/community/d2learn/d2learn-forum.md' },
+          ]
+        },
+        { text: 'MOGA 让开源再次伟大', link: '/community/moga.md' },
       ],
       '/games/' : [
         { text: '艾尔登法环', link: '/games/elden-ring.md' },

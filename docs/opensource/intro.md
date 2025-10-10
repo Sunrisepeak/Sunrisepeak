@@ -78,7 +78,7 @@ const current_projects = [
   },
   {
     name: 'MOGA',
-    url: 'moga',
+    url: '../community/moga',
     desc: '让开源再次伟大',
   },
   {
