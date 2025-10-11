@@ -18,6 +18,9 @@ hero:
     - theme: alt
       text: Youtube
       link: https://www.youtube.com/@sunrisepeak
+    - theme: sponsor
+      text: d2learn-blog
+      link: https://forum.d2learn.org/category/11/sunrisepeak-s-blog
     - theme: brand
       text: 关于我 ->
       link: /about/intro.md
