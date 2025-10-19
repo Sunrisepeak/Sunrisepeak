@@ -38,6 +38,8 @@ export default defineConfig({
       {
         text: '游戏',
         items: [
+          { text: 'DDraceNetwork', link: '/games/ddnet.md' },
+          { text: '黑神话: 悟空', link: '/games/black-myth-wukong.md' },
           { text: '艾尔登法环', link: '/games/elden-ring.md' },
         ]
       },
@@ -54,7 +56,7 @@ export default defineConfig({
         items: [
           { text: '关于我', link: '/about/intro.md' },
           { text: '照片追忆', link: '/about/photo-memory.md' },
-          { text: '最近动态', link: '/about/recent-activity/intro.md' },
+          { text: '日志', link: '/about/recent-activity/intro.md' },
         ]
       }
     ],
@@ -64,7 +66,7 @@ export default defineConfig({
         { text: '关于我', link: '/about/intro.md' },
         { text: '照片追忆', link: '/about/photo-memory.md' },
         {
-          text: '最近动态',
+          text: '日志',
           collapsed: true,
           items: [
             { text: '简介', link: '/about/recent-activity/intro.md' },
@@ -98,6 +100,8 @@ export default defineConfig({
         { text: 'MOGA 让开源再次伟大', link: '/community/moga.md' },
       ],
       '/games/' : [
+        { text: 'DDraceNetwork', link: '/games/ddnet.md' },
+        { text: '黑神话: 悟空', link: '/games/black-myth-wukong.md' },
         { text: '艾尔登法环', link: '/games/elden-ring.md' },
       ],
     },

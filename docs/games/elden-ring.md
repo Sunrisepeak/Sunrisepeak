@@ -2,7 +2,7 @@
 
 艾尔登法环是以正统黑暗奇幻世界为舞台的动作RPG游戏。 走进辽阔的场景与地下迷宫探索未知，挑战困难重重的险境，享受克服困境时的成就感吧
 
-![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/capsule_616x353.jpg?t=1748630546)
+![](/imgs/games/elden-ring.jpg)
 
 <VideoGallery
   title="Boss战"
@@ -28,6 +28,15 @@
   ]"
 />
 
+## 实况
+
+- [第00期 | 宁姆格福 - 初始之引](https://www.bilibili.com/video/BV1FX4UzxEZK)
+- [第01期 | 宁姆格福 - 大树守卫 - 拼尽全力无法战胜(上)](https://www.bilibili.com/video/BV1rF49zTEoK)
+- [第02期 | 宁姆格福 - 大树守卫 - 拼尽全力无法战胜(下)](https://www.bilibili.com/video/BV1cF49zTEZo)
+- [第03期 | 宁姆格福 - 大树守卫 - 奋战9小时艰难取胜](https://www.bilibili.com/video/BV1E9WqzLEjz)
+- [第04期 | 宁姆格福 - 地图探索 - 误入小岛](https://www.bilibili.com/video/BV1gDWBzKE4w)
+
 ## 相关链接
 
 - https://store.steampowered.com/app/1245620
+- https://space.bilibili.com/65858958/lists/5747686?type=season

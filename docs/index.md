@@ -121,11 +121,15 @@ const current_projects = [
 const activities = [
   {
     title: '🎉 搭建个人主页(初步) - 2025/10/07 🎉',
-    url: 'https://github.com/d2learn',
+    url: 'about/recent-activity/2025/2025-10',
   },
   {
     title: '填充基础内容 - 2025/10/10',
-    url: 'https://github.com/d2learn',
+    url: 'about/recent-activity/2025/2025-10',
+  },
+  {
+    title: '添加 `DDraceNetwork`、`黑神话: 悟空` - 2025/10/19',
+    url: 'about/recent-activity/2025/2025-10',
   },
 ]
 
