@@ -8,7 +8,7 @@ const props = defineProps({
   },
   interval: {
     type: Number,
-    default: 5000
+    default: 3000
   }
 })
 

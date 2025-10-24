@@ -19,8 +19,8 @@ hero:
       text: Youtube
       link: https://www.youtube.com/@sunrisepeak
     - theme: sponsor
-      text: d2learn-blog
-      link: https://forum.d2learn.org/category/11/sunrisepeak-s-blog
+      text: d2learn社区
+      link: https://d2learn.org
     - theme: brand
       text: 关于我 ->
       link: /about/intro.md
@@ -120,16 +120,12 @@ const current_projects = [
 
 const activities = [
   {
-    title: '🎉 搭建个人主页(初步) - 2025/10/07 🎉',
-    url: 'about/recent-activity/2025/2025-10',
-  },
-  {
-    title: '填充基础内容 - 2025/10/10',
-    url: 'about/recent-activity/2025/2025-10',
-  },
-  {
     title: '添加 `DDraceNetwork`、`黑神话: 悟空` - 2025/10/19',
     url: 'about/recent-activity/2025/2025-10',
+  },
+  {
+    title: '📣 MSCP -> mcpp项目贡献者培养计划 <- 2025/10/23',
+    url: 'https://moga.d2learn.org/activity/mscp/intro.html',
   },
 ]
 

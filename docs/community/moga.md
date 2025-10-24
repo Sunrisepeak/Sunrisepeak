@@ -2,9 +2,10 @@
 
 Make Opensource Great Again | 让开源再次伟大
 
-| [主页](https://d2learn.github.io/MOGA) - [论坛](https://forum.d2learn.org) |
+| [主页](https://moga.d2learn.org) - [论坛](https://forum.d2learn.org/category/22/moga) |
 | --- |
 | [![Deploy VitePress site to Pages](https://github.com/d2learn/MOGA/actions/workflows/deploy.yml/badge.svg)](https://github.com/d2learn/MOGA/actions/workflows/deploy.yml) |
+| [📣 MSCP - mcpp项目贡献者培养计划](https://moga.d2learn.org/activity/mscp/intro.html) |
 
 ## 核心问题和目标
 
@@ -30,5 +31,6 @@ Make Opensource Great Again | 让开源再次伟大
 
 ## 链接
 
-- 主页: https://d2learn.github.io/MOGA
-- 论坛: https://forum.d2learn.org
+- 主页: https://moga.d2learn.org
+- 论坛: https://forum.d2learn.org/category/22/moga
+- 群组: 167535744、1065632930

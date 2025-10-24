@@ -19,15 +19,6 @@ export default defineConfig({
         ]
       },
       {
-        text: '社区',
-        items: [
-          { text: 'd2learn 社区', link: '/community/d2learn/intro.md' },
-          { text: 'd2learn 开源', link: '/community/d2learn/d2learn-opensource.md' },
-          { text: 'd2learn 论坛', link: '/community/d2learn/d2learn-forum.md' },
-          { text: 'MOGA 让开源再次伟大', link: '/community/moga.md' },
-        ]
-      },
-      {
         text: '思考',
         items: [
           { text: '我是谁, 从哪里来, 要到哪里去', link: '/' },
@@ -52,10 +43,20 @@ export default defineConfig({
         ]
       },
       {
+        text: '社区',
+        items: [
+          { text: 'd2learn 社区', link: '/community/d2learn/intro.md' },
+          { text: 'd2learn 开源', link: '/community/d2learn/d2learn-opensource.md' },
+          { text: 'd2learn 论坛', link: '/community/d2learn/d2learn-forum.md' },
+          { text: 'MOGA 让开源再次伟大', link: '/community/moga.md' },
+        ]
+      },
+      {
         text: '关于',
         items: [
           { text: '关于我', link: '/about/intro.md' },
           { text: '照片追忆', link: '/about/photo-memory.md' },
+          { text: '联系我', link: '/about/reach-me.md' },
           { text: '日志', link: '/about/recent-activity/intro.md' },
         ]
       }
@@ -65,6 +66,7 @@ export default defineConfig({
       '/about/' : [
         { text: '关于我', link: '/about/intro.md' },
         { text: '照片追忆', link: '/about/photo-memory.md' },
+        { text: '联系我', link: '/about/reach-me.md' },
         {
           text: '日志',
           collapsed: true,
