@@ -3,11 +3,11 @@
 layout: home
 
 hero:
-  name: "SPeak | 言峰"
+  name: "SPeak | Yanfeng"
   text: "Sunrisepeak"
-  tagline: 观察者、探索者和开发者 -> 仰望星空, 脚踏实地
+  tagline: Observer, Explorer and Developer -> Look up at the stars, keep feet on the ground
   image:
-    src: '/imgs/sunrisepeak.png'
+    src: '../imgs/sunrisepeak.png'
   actions:
     - theme: alt
       text: Github
@@ -19,19 +19,19 @@ hero:
       text: Youtube
       link: https://www.youtube.com/@sunrisepeak
     - theme: sponsor
-      text: d2learn社区
+      text: d2learn Community
       link: https://d2learn.org
     - theme: brand
-      text: 关于我 ->
-      link: /about/intro.md
+      text: About Me ->
+      link: /en/about/intro.md
 
 features:
-  - title: 我是谁
-    details: 软件工程师、xlings作者、d2learn社区开发者、开源爱好者、技术博主。时而抽象, 时而正经, 仰望星空, 脚踏实地
-  - title: 从哪来
-    details: 2020年毕业, 通过校招加入小米, 参与MIUI和HyperOS操作系统开发工作; 2023年起专注于开源生态与可持续发展的探索和研究, 随后创建了d2learn社区、xlings包管理器、mcpp教程等项目...
-  - title: 要到哪去
-    details: 做点有意思的事情。技术、知识、想法分享交流; 探索如何可持续的开发/运营一个开源项目并产生社会价值
+  - title: Who Am I
+    details: Software Engineer, xlings author, d2learn community developer, open source enthusiast, technical blogger. Sometimes abstract, sometimes serious, look up at the stars, keep feet on the ground
+  - title: Where Do I Come From
+    details: Graduated in 2020, joined Xiaomi through campus recruitment, participated in MIUI and HyperOS operating system development; Since 2023, focused on exploring and researching open source ecosystem and sustainable development, subsequently created d2learn community, xlings package manager, mcpp tutorial and other projects...
+  - title: Where Am I Going
+    details: Do something interesting. Technology, knowledge, idea sharing and exchange; Explore how to sustainably develop/operate an open source project and create social value
 ---
 
 <script setup>
@@ -44,7 +44,7 @@ const pr_projects = [
   },
   {
     name: 'AOSP',
-    img: 'imgs/aosp.svg',
+    img: '../imgs/aosp.svg',
     url: 'https://cs.android.com/android'
   },
   {
@@ -53,7 +53,7 @@ const pr_projects = [
   },
   {
     name: 'xmake',
-    img: 'imgs/xmake.png',
+    img: '../imgs/xmake.png',
     url: 'https://xmake.io'
   },
   {
@@ -62,27 +62,27 @@ const pr_projects = [
   },
   {
     name: 'tbox',
-    img: 'imgs/tbox.png',
+    img: '../imgs/tbox.png',
     url: 'https://github.com/tboox/tbox'
   },
   {
     name: 'vuejs-docs',
-    img: 'imgs/vuejs.svg',
+    img: '../imgs/vuejs.svg',
     url: 'https://vuejs.org'
   },
   {
     name: 'Linux',
-    img: 'imgs/linux.svg',
+    img: '../imgs/linux.svg',
     url: 'https://github.com/torvalds/linux'
   },
   {
     name: 'LVGL',
-    img: 'imgs/lvgl.png',
+    img: '../imgs/lvgl.png',
     url: 'https://github.com/lvgl/lvgl'
   },
   {
     name: 'project-graph',
-    img: 'imgs/project-graph.svg',
+    img: '../imgs/project-graph.svg',
     url: 'https://github.com/graphif/project-graph'
   },
 ]
@@ -92,39 +92,39 @@ const current_projects = [
     name: 'xlings',
     img: 'https://xlings.d2learn.org/imgs/xlings-logo.png',
     url: 'opensource/xlings',
-    desc: '高度抽象的包管理器',
+    desc: 'Highly abstract package manager',
   },
   {
-    name: 'd2learn论坛',
+    name: 'd2learn Forum',
     url: 'https://forum.d2learn.org',
-    img: 'imgs/d2learn.png',
-    desc: '开源爱好者论坛',
+    img: '../imgs/d2learn.png',
+    desc: 'Open source enthusiast forum',
   },
   {
     name: 'mcpp-standard',
     url: 'opensource/mcpp-standard',
-    desc: '交互式现代C++教程',
+    desc: 'Interactive modern C++ tutorial',
   },
   {
     name: 'MOGA',
     url: 'community/moga',
-    desc: '让开源再次伟大',
+    desc: 'Make Open Source Great Again',
   },
   {
     name: '...',
     url: 'opensource/intro',
-    desc: '更多',
+    desc: 'More',
   },
 ]
 
 
 const activities = [
   {
-    title: '添加 `DDraceNetwork`、`黑神话: 悟空` - 2025/10/19',
+    title: 'Added `DDraceNetwork`, `Black Myth: Wukong` - 2025/10/19',
     url: 'about/recent-activity/2025/2025-10',
   },
   {
-    title: '📣 MSCP -> mcpp项目贡献者培养计划 <- 2025/10/23',
+    title: '📣 MSCP -> mcpp Contributor Cultivation Program <- 2025/10/23',
     url: 'https://moga.d2learn.org/activity/mscp/intro.html',
   },
 ]
@@ -132,6 +132,5 @@ const activities = [
 </script>
 
 <RecentActivity :items="activities" />
-<ProjectGallery title="当前维护的项目" :lists="current_projects" />
-<ProjectGallery title="参与过贡献的开源项目" :lists="pr_projects" />
-<LangRedirect />
+<ProjectGallery title="Currently Maintained Projects" :lists="current_projects" />
+<ProjectGallery title="Open Source Projects Contributed To" :lists="pr_projects" />
