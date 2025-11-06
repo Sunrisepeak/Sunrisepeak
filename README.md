@@ -45,4 +45,5 @@
 - **`Tools`**: [xlings](https://github.com/d2learn/xlings) / [KHistory](https://github.com/Sunrisepeak/KHistory)
 - **`Framework`**: [Hanim](https://github.com/Sunrisepeak/Hanim)
 - **`Infrastructure Software/Libs`**: [DStruct](https://github.com/Sunrisepeak/DStruct) / [gl-interface](https://github.com/Sunrisepeak/gl-interface) / [honly](https://github.com/Sunrisepeak/honly)
+- **`Operating System / Kernel`**: [AOSP | Android Open Source Project](https://cs.android.com/android/platform/superproject) / [linux](https://github.com/torvalds/linux) / [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource)
 
