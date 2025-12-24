@@ -39,11 +39,15 @@
 
 ### Interest & Related work
 
-- **🌎`Community`**: [d2learn](https://d2learn.org) / [d2learn-opensource](https://github.com/d2learn) / [d2learn-forums](https://forum.d2learn.org) / [MOGA](https://moga.d2learn.org)
+- **🌎`Community`**
+  - [d2learn](https://d2learn.org) : [d2learn-opensource](https://github.com/d2learn) / [d2learn-forums](https://forum.d2learn.org) / [MOGA](https://moga.d2learn.org)
+  - [mcpp-community](https://github.com/mcpp-community) / [mcpplibs](https://github.com/mcpplibs)
 - **🎓`Courses/Tutorials`**: [mcpp-standard](https://github.com/Sunrisepeak/mcpp-standard) / [d2ds](https://github.com/d2learn/d2ds)
 - **📄`Documents`**: [HelloWorld](https://github.com/Sunrisepeak/HelloWorld) / [devicetree-specification-chinese](https://github.com/Sunrisepeak/devicetree-specification-chinese)
 - **🛠️`Tools`**: [xlings](https://github.com/d2learn/xlings) / [KHistory](https://github.com/Sunrisepeak/KHistory)
 - **🧩`Framework`**: [Hanim](https://github.com/Sunrisepeak/Hanim)
-- **📦`Infrastructure Software/Libs`**: [DStruct](https://github.com/Sunrisepeak/DStruct) / [gl-interface](https://github.com/Sunrisepeak/gl-interface) / [honly](https://github.com/Sunrisepeak/honly)
+- **📦`Infrastructure Software/Libs`**
+  - [llmapi](https://github.com/mcpplibs/llmapi)
+  - [DStruct](https://github.com/Sunrisepeak/DStruct) / [gl-interface](https://github.com/Sunrisepeak/gl-interface) / [honly](https://github.com/Sunrisepeak/honly)
 - **📱`Operating System / Kernel`**: [AOSP/MIUI/HyperOS | Audio Subsystem & Vibration Subsystem](https://cs.android.com/android/platform/superproject) / [linux](https://github.com/torvalds/linux) / [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource)
 
