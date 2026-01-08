@@ -44,7 +44,7 @@
   - [mcpp-community](https://github.com/mcpp-community) / [mcpplibs](https://github.com/mcpplibs)
 - **🎓`Courses/Tutorials`**: [mcpp-standard](https://github.com/Sunrisepeak/mcpp-standard) / [d2ds](https://github.com/d2learn/d2ds)
 - **📄`Documents`**: [HelloWorld](https://github.com/Sunrisepeak/HelloWorld) / [devicetree-specification-chinese](https://github.com/Sunrisepeak/devicetree-specification-chinese)
-- **🛠️`Tools`**: [xlings](https://github.com/d2learn/xlings) / [KHistory](https://github.com/Sunrisepeak/KHistory)
+- **🛠️`Tools`**: [xlings](https://github.com/d2learn/xlings) / [KHistory](https://github.com/Sunrisepeak/KHistory) / [all-contributors](https://github.com/Sunrisepeak/all-contributors)
 - **🧩`Framework`**: [Hanim](https://github.com/Sunrisepeak/Hanim)
 - **📦`Infrastructure Software/Libs`**
   - [llmapi](https://github.com/mcpplibs/llmapi)
