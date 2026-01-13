@@ -42,7 +42,7 @@
 - **🌎`Community`**
   - [d2learn](https://d2learn.org) : [d2learn-opensource](https://github.com/d2learn) / [d2learn-forums](https://forum.d2learn.org) / [MOGA](https://moga.d2learn.org)
   - [mcpp-community](https://github.com/mcpp-community) / [mcpplibs](https://github.com/mcpplibs)
-- **🎓`Courses/Tutorials`**: [mcpp-standard](https://github.com/Sunrisepeak/mcpp-standard) / [d2ds](https://github.com/d2learn/d2ds)
+- **🎓`Courses/Tutorials`**: [d2mcpp](https://github.com/mcpp-community/d2mcpp) / [d2ds](https://github.com/d2learn/d2ds)
 - **📄`Documents`**: [HelloWorld](https://github.com/Sunrisepeak/HelloWorld) / [devicetree-specification-chinese](https://github.com/Sunrisepeak/devicetree-specification-chinese)
 - **🛠️`Tools`**: [xlings](https://github.com/d2learn/xlings) / [KHistory](https://github.com/Sunrisepeak/KHistory) / [thanks-contributors](https://github.com/Sunrisepeak/thanks-contributors)
 - **🧩`Framework`**: [Hanim](https://github.com/Sunrisepeak/Hanim)
