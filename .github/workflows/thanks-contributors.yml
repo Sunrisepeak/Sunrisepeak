@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Collect contributors
-        uses: Sunrisepeak/thanks-contributors@0.0.3
+        uses: Sunrisepeak/thanks-contributors@0.0.4
         with:
             readme_path: README.md
             targets: 'Sunrisepeak/* d2learn/* mcpp-community/* mcpplibs/*'
