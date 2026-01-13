@@ -19,4 +19,4 @@ jobs:
         uses: Sunrisepeak/thanks-contributors@0.0.3
         with:
             readme_path: README.md
-            target: 'Sunrisepeak/* d2learn/* mcpp-community/* mcpplibs/*'
+            targets: 'Sunrisepeak/* d2learn/* mcpp-community/* mcpplibs/*'
