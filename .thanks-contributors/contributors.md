@@ -31,13 +31,6 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/apps/github-actions">
-            <img src="https://avatars.githubusercontent.com/in/15368?v=4" width="50;" alt="github-actions[bot]"/>
-            <br />
-            <sub><b>github-actions[bot]</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/2412322029">
             <img src="https://avatars.githubusercontent.com/u/74493337?v=4" width="50;" alt="2412322029"/>
             <br />
@@ -63,6 +56,13 @@
             <img src="https://avatars.githubusercontent.com/u/33739170?v=4" width="50;" alt="zzxzzk115"/>
             <br />
             <sub><b>zzxzzk115</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/d2learn-org">
+            <img src="https://avatars.githubusercontent.com/u/248744407?v=4" width="50;" alt="d2learn-org"/>
+            <br />
+            <sub><b>d2learn-org</b></sub>
         </a>
     </td>
     <td align="center">
@@ -102,13 +102,7 @@
             <sub><b>Mq-b</b></sub>
         </a>
     </td>
-    <td align="center">
-        <a href="https://github.com/d2learn-org">
-            <img src="https://avatars.githubusercontent.com/u/248744407?v=4" width="50;" alt="d2learn-org"/>
-            <br />
-            <sub><b>d2learn-org</b></sub>
-        </a>
-    </td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
