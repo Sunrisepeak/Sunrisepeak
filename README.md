@@ -44,10 +44,14 @@
   - [mcpp-community](https://github.com/mcpp-community) / [mcpplibs](https://github.com/mcpplibs)
 - **🎓`Courses/Tutorials`**: [mcpp-standard](https://github.com/Sunrisepeak/mcpp-standard) / [d2ds](https://github.com/d2learn/d2ds)
 - **📄`Documents`**: [HelloWorld](https://github.com/Sunrisepeak/HelloWorld) / [devicetree-specification-chinese](https://github.com/Sunrisepeak/devicetree-specification-chinese)
-- **🛠️`Tools`**: [xlings](https://github.com/d2learn/xlings) / [KHistory](https://github.com/Sunrisepeak/KHistory) / [all-contributors](https://github.com/Sunrisepeak/all-contributors)
+- **🛠️`Tools`**: [xlings](https://github.com/d2learn/xlings) / [KHistory](https://github.com/Sunrisepeak/KHistory) / [thanks-conatributors](https://github.com/Sunrisepeak/thanks-contributors)
 - **🧩`Framework`**: [Hanim](https://github.com/Sunrisepeak/Hanim)
 - **📦`Infrastructure Software/Libs`**
   - [llmapi](https://github.com/mcpplibs/llmapi)
   - [DStruct](https://github.com/Sunrisepeak/DStruct) / [gl-interface](https://github.com/Sunrisepeak/gl-interface) / [honly](https://github.com/Sunrisepeak/honly)
 - **📱`Operating System / Kernel`**: [AOSP/MIUI/HyperOS | Audio Subsystem & Vibration Subsystem](https://cs.android.com/android/platform/superproject) / [linux](https://github.com/torvalds/linux) / [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource)
+
+### Thanks, Contributors!
+
+> auto-update by [thanks-conatributors](https://github.com/Sunrisepeak/thanks-contributors) tools
 
