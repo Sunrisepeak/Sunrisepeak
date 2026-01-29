@@ -1,7 +1,11 @@
 {
   "thanks-contributors": "1.0.0",
-  "count": 14,
+  "count": 15,
   "contributors": [
+    {
+      "name": "13eholder",
+      "email": null
+    },
     {
       "name": "2412322029",
       "email": null
@@ -60,6 +64,36 @@
     }
   ],
   "details": {
+    "Sunrisepeak/devicetree-specification-chinese": {
+      "count": 4,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        },
+        {
+          "name": "wil1jiang",
+          "email": null
+        },
+        {
+          "name": "speak",
+          "email": "speak@speakmbp.lan"
+        },
+        {
+          "name": "tiansongyu",
+          "email": null
+        }
+      ]
+    },
+    "Sunrisepeak/dstruct": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
     "Sunrisepeak/Sunrisepeak": {
       "count": 1,
       "contributors": [
@@ -100,41 +134,11 @@
         }
       ]
     },
-    "Sunrisepeak/dstruct": {
-      "count": 1,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        }
-      ]
-    },
     "Sunrisepeak/tinysyscall": {
       "count": 1,
       "contributors": [
         {
           "name": "Sunrisepeak",
-          "email": null
-        }
-      ]
-    },
-    "Sunrisepeak/devicetree-specification-chinese": {
-      "count": 4,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        },
-        {
-          "name": "wil1jiang",
-          "email": null
-        },
-        {
-          "name": "speak",
-          "email": "speak@speakmbp.lan"
-        },
-        {
-          "name": "tiansongyu",
           "email": null
         }
       ]
@@ -319,19 +323,20 @@
         }
       ]
     },
-    "d2learn/xim-pkgindex": {
-      "count": 3,
+    "d2learn/d2x-project-template": {
+      "count": 1,
       "contributors": [
         {
           "name": "Sunrisepeak",
           "email": null
-        },
+        }
+      ]
+    },
+    "d2learn/d2x": {
+      "count": 1,
+      "contributors": [
         {
-          "name": "MoYingJi",
-          "email": null
-        },
-        {
-          "name": "2412322029",
+          "name": "Sunrisepeak",
           "email": null
         }
       ]
@@ -353,11 +358,19 @@
         }
       ]
     },
-    "d2learn/d2x": {
-      "count": 1,
+    "d2learn/xim-pkgindex": {
+      "count": 3,
       "contributors": [
         {
           "name": "Sunrisepeak",
+          "email": null
+        },
+        {
+          "name": "MoYingJi",
+          "email": null
+        },
+        {
+          "name": "2412322029",
           "email": null
         }
       ]
@@ -515,21 +528,8 @@
         }
       ]
     },
-    "mcpp-community/.github": {
-      "count": 2,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        },
-        {
-          "name": "d2learn-org",
-          "email": null
-        }
-      ]
-    },
     "mcpp-community/d2mcpp": {
-      "count": 6,
+      "count": 7,
       "contributors": [
         {
           "name": "Sunrisepeak",
@@ -548,6 +548,10 @@
           "email": null
         },
         {
+          "name": "13eholder",
+          "email": null
+        },
+        {
           "name": "jwaiting",
           "email": null
         },
@@ -557,7 +561,25 @@
         }
       ]
     },
-    "mcpp-community/all-contributors": {
+    "mcpp-community/mcpp-style-ref": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpp-community/mcpp-bot": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpp-community/members": {
       "count": 1,
       "contributors": [
         {
@@ -567,6 +589,32 @@
       ]
     },
     "mcpp-community/mcpp-community": {
+      "count": 2,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        },
+        {
+          "name": "MoYingJi",
+          "email": null
+        }
+      ]
+    },
+    "mcpp-community/.github": {
+      "count": 2,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        },
+        {
+          "name": "d2learn-org",
+          "email": null
+        }
+      ]
+    },
+    "mcpp-community/issues-helper-template": {
       "count": 1,
       "contributors": [
         {
@@ -576,6 +624,15 @@
       ]
     },
     "mcpplibs/llmapi": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpplibs/.github": {
       "count": 1,
       "contributors": [
         {
@@ -594,15 +651,6 @@
       ]
     },
     "mcpplibs/templates": {
-      "count": 1,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        }
-      ]
-    },
-    "mcpplibs/.github": {
       "count": 1,
       "contributors": [
         {
