@@ -160,12 +160,21 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/topshihun">
+            <img src="https://avatars.githubusercontent.com/u/89700178?v=4" width="50;" alt="topshihun"/>
+            <br />
+            <sub><b>topshihun</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/jwaiting">
             <img src="https://avatars.githubusercontent.com/u/39482149?v=4" width="50;" alt="jwaiting"/>
             <br />
             <sub><b>jwaiting</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Mq-b">
             <img src="https://avatars.githubusercontent.com/u/97590219?v=4" width="50;" alt="Mq-b"/>
@@ -173,8 +182,6 @@
             <sub><b>Mq-b</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/d2learn-org">
             <img src="https://avatars.githubusercontent.com/u/248744407?v=4" width="50;" alt="d2learn-org"/>
@@ -182,7 +189,6 @@
             <sub><b>d2learn-org</b></sub>
         </a>
     </td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
