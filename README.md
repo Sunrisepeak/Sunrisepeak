@@ -109,14 +109,21 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Creativecole">
+            <img src="https://avatars.githubusercontent.com/u/15854370?v=4" width="50;" alt="Creativecole"/>
+            <br />
+            <sub><b>Creativecole</b></sub>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/tiansongyu">
             <img src="https://avatars.githubusercontent.com/u/22124581?v=4" width="50;" alt="tiansongyu"/>
             <br />
             <sub><b>tiansongyu</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/sky-littlestar">
             <img src="https://avatars.githubusercontent.com/u/59217691?v=4" width="50;" alt="sky-littlestar"/>
@@ -125,24 +132,17 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/apps/copilot-swe-agent">
+            <img src="https://avatars.githubusercontent.com/in/1143301?v=4" width="50;" alt="Copilot"/>
+            <br />
+            <sub><b>Copilot</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/zzxzzk115">
             <img src="https://avatars.githubusercontent.com/u/33739170?v=4" width="50;" alt="zzxzzk115"/>
             <br />
             <sub><b>zzxzzk115</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Creativecole">
-            <img src="https://avatars.githubusercontent.com/u/15854370?v=4" width="50;" alt="Creativecole"/>
-            <br />
-            <sub><b>Creativecole</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/d2learn-org">
-            <img src="https://avatars.githubusercontent.com/u/248744407?v=4" width="50;" alt="d2learn-org"/>
-            <br />
-            <sub><b>d2learn-org</b></sub>
         </a>
     </td>
     <td align="center">
@@ -217,7 +217,13 @@
             <sub><b>Mq-b</b></sub>
         </a>
     </td>
-    <td></td>
+    <td align="center">
+        <a href="https://github.com/d2learn-org">
+            <img src="https://avatars.githubusercontent.com/u/248744407?v=4" width="50;" alt="d2learn-org"/>
+            <br />
+            <sub><b>d2learn-org</b></sub>
+        </a>
+    </td>
     <td></td>
 </tr>
 </table>
