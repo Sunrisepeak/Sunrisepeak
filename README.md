@@ -67,17 +67,17 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/MoYingJi">
-            <img src="https://avatars.githubusercontent.com/u/64307394?v=4" width="50;" alt="MoYingJi"/>
-            <br />
-            <sub><b>MoYingJi</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/FrozenLemonTee">
             <img src="https://avatars.githubusercontent.com/u/64787592?v=4" width="50;" alt="FrozenLemonTee"/>
             <br />
             <sub><b>FrozenLemonTee</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/MoYingJi">
+            <img src="https://avatars.githubusercontent.com/u/64307394?v=4" width="50;" alt="MoYingJi"/>
+            <br />
+            <sub><b>MoYingJi</b></sub>
         </a>
     </td>
     <td align="center">
@@ -117,6 +117,13 @@
     </td>
 </tr>
 <tr>
+    <td align="center">
+        <a href="https://github.com/apps/dependabot">
+            <img src="https://avatars.githubusercontent.com/in/29110?v=4" width="50;" alt="dependabot[bot]"/>
+            <br />
+            <sub><b>dependabot[bot]</b></sub>
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/tiansongyu">
             <img src="https://avatars.githubusercontent.com/u/22124581?v=4" width="50;" alt="tiansongyu"/>
@@ -166,6 +173,8 @@
             <sub><b>ExquisiteCore</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Hebown">
             <img src="https://avatars.githubusercontent.com/u/151939174?v=4" width="50;" alt="Hebown"/>
@@ -173,8 +182,6 @@
             <sub><b>Hebown</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/MaoApoot">
             <img src="https://avatars.githubusercontent.com/u/77091068?v=4" width="50;" alt="MaoApoot"/>
@@ -224,7 +231,6 @@
             <sub><b>d2learn-org</b></sub>
         </a>
     </td>
-    <td></td>
 </tr>
 </table>
 <!-- thanks-contributors-flag-end -->
