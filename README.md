@@ -153,6 +153,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/d2learn-org">
+            <img src="https://avatars.githubusercontent.com/u/248744407?v=4" width="50;" alt="d2learn-org"/>
+            <br />
+            <sub><b>d2learn-org</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/521xueweihan">
             <img src="https://avatars.githubusercontent.com/u/8255800?v=4" width="50;" alt="521xueweihan"/>
             <br />
@@ -166,6 +173,8 @@
             <sub><b>Ankali-Aylina</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/ExquisiteCore">
             <img src="https://avatars.githubusercontent.com/u/59426890?v=4" width="50;" alt="ExquisiteCore"/>
@@ -173,8 +182,6 @@
             <sub><b>ExquisiteCore</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/Hebown">
             <img src="https://avatars.githubusercontent.com/u/151939174?v=4" width="50;" alt="Hebown"/>
@@ -224,13 +231,22 @@
             <sub><b>Mq-b</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
-        <a href="https://github.com/d2learn-org">
-            <img src="https://avatars.githubusercontent.com/u/248744407?v=4" width="50;" alt="d2learn-org"/>
+        <a href="https://github.com/ZheFeng7110">
+            <img src="https://avatars.githubusercontent.com/u/194236111?v=4" width="50;" alt="ZheFeng7110"/>
             <br />
-            <sub><b>d2learn-org</b></sub>
+            <sub><b>ZheFeng7110</b></sub>
         </a>
     </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
 </tr>
 </table>
 <!-- thanks-contributors-flag-end -->

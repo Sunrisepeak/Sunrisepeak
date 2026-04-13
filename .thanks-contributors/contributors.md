@@ -96,6 +96,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/d2learn-org">
+            <img src="https://avatars.githubusercontent.com/u/248744407?v=4" width="50;" alt="d2learn-org"/>
+            <br />
+            <sub><b>d2learn-org</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/521xueweihan">
             <img src="https://avatars.githubusercontent.com/u/8255800?v=4" width="50;" alt="521xueweihan"/>
             <br />
@@ -137,6 +144,8 @@
             <sub><b>13eholder</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/lost-42">
             <img src="https://avatars.githubusercontent.com/u/202471602?v=4" width="50;" alt="lost-42"/>
@@ -144,8 +153,6 @@
             <sub><b>lost-42</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/topshihun">
             <img src="https://avatars.githubusercontent.com/u/89700178?v=4" width="50;" alt="topshihun"/>
@@ -168,13 +175,12 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/d2learn-org">
-            <img src="https://avatars.githubusercontent.com/u/248744407?v=4" width="50;" alt="d2learn-org"/>
+        <a href="https://github.com/ZheFeng7110">
+            <img src="https://avatars.githubusercontent.com/u/194236111?v=4" width="50;" alt="ZheFeng7110"/>
             <br />
-            <sub><b>d2learn-org</b></sub>
+            <sub><b>ZheFeng7110</b></sub>
         </a>
     </td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
