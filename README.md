@@ -74,24 +74,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/MoYingJi">
-            <img src="https://avatars.githubusercontent.com/u/64307394?v=4" width="50;" alt="MoYingJi"/>
-            <br />
-            <sub><b>MoYingJi</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/wil1jiang">
             <img src="https://avatars.githubusercontent.com/u/48466892?v=4" width="50;" alt="wil1jiang"/>
             <br />
             <sub><b>wil1jiang</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/cursoragent">
-            <img src="https://avatars.githubusercontent.com/u/199161495?v=4" width="50;" alt="cursoragent"/>
-            <br />
-            <sub><b>cursoragent</b></sub>
         </a>
     </td>
     <td align="center">
@@ -102,10 +88,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/2412322029">
-            <img src="https://avatars.githubusercontent.com/u/74493337?v=4" width="50;" alt="2412322029"/>
+        <a href="https://github.com/MoYingJi">
+            <img src="https://avatars.githubusercontent.com/u/64307394?v=4" width="50;" alt="MoYingJi"/>
             <br />
-            <sub><b>2412322029</b></sub>
+            <sub><b>MoYingJi</b></sub>
         </a>
     </td>
     <td align="center">
@@ -115,8 +101,6 @@
             <sub><b>Creativecole</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/apps/dependabot">
             <img src="https://avatars.githubusercontent.com/in/29110?v=4" width="50;" alt="dependabot[bot]"/>
@@ -131,32 +115,13 @@
             <sub><b>tiansongyu</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/sky-littlestar">
             <img src="https://avatars.githubusercontent.com/u/59217691?v=4" width="50;" alt="sky-littlestar"/>
             <br />
             <sub><b>sky-littlestar</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/apps/copilot-swe-agent">
-            <img src="https://avatars.githubusercontent.com/in/1143301?v=4" width="50;" alt="Copilot"/>
-            <br />
-            <sub><b>Copilot</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/zzxzzk115">
-            <img src="https://avatars.githubusercontent.com/u/33739170?v=4" width="50;" alt="zzxzzk115"/>
-            <br />
-            <sub><b>zzxzzk115</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/d2learn-org">
-            <img src="https://avatars.githubusercontent.com/u/248744407?v=4" width="50;" alt="d2learn-org"/>
-            <br />
-            <sub><b>d2learn-org</b></sub>
         </a>
     </td>
     <td align="center">
@@ -173,8 +138,6 @@
             <sub><b>Ankali-Aylina</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/ExquisiteCore">
             <img src="https://avatars.githubusercontent.com/u/59426890?v=4" width="50;" alt="ExquisiteCore"/>
@@ -210,6 +173,8 @@
             <sub><b>lost-42</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/topshihun">
             <img src="https://avatars.githubusercontent.com/u/89700178?v=4" width="50;" alt="topshihun"/>
@@ -231,8 +196,13 @@
             <sub><b>Mq-b</b></sub>
         </a>
     </td>
-</tr>
-<tr>
+    <td align="center">
+        <a href="https://github.com/d2learn-org">
+            <img src="https://avatars.githubusercontent.com/u/248744407?v=4" width="50;" alt="d2learn-org"/>
+            <br />
+            <sub><b>d2learn-org</b></sub>
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/ZheFeng7110">
             <img src="https://avatars.githubusercontent.com/u/194236111?v=4" width="50;" alt="ZheFeng7110"/>
@@ -240,10 +210,6 @@
             <sub><b>ZheFeng7110</b></sub>
         </a>
     </td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
