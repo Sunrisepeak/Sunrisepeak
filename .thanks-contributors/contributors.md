@@ -17,6 +17,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/MoYingJi">
+            <img src="https://avatars.githubusercontent.com/u/64307394?v=4" width="50;" alt="MoYingJi"/>
+            <br />
+            <sub><b>MoYingJi</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/wil1jiang">
             <img src="https://avatars.githubusercontent.com/u/48466892?v=4" width="50;" alt="wil1jiang"/>
             <br />
@@ -24,17 +31,17 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/cursoragent">
+            <img src="https://avatars.githubusercontent.com/u/199161495?v=4" width="50;" alt="cursoragent"/>
+            <br />
+            <sub><b>cursoragent</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="#">
             <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50;" alt="speak"/>
             <br />
             <sub><b>speak</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/MoYingJi">
-            <img src="https://avatars.githubusercontent.com/u/64307394?v=4" width="50;" alt="MoYingJi"/>
-            <br />
-            <sub><b>MoYingJi</b></sub>
         </a>
     </td>
     <td align="center">
@@ -52,10 +59,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/apps/dependabot">
-            <img src="https://avatars.githubusercontent.com/in/29110?v=4" width="50;" alt="dependabot[bot]"/>
+        <a href="https://github.com/2412322029">
+            <img src="https://avatars.githubusercontent.com/u/74493337?v=4" width="50;" alt="2412322029"/>
             <br />
-            <sub><b>dependabot[bot]</b></sub>
+            <sub><b>2412322029</b></sub>
         </a>
     </td>
     <td align="center">
@@ -65,34 +72,20 @@
             <sub><b>tiansongyu</b></sub>
         </a>
     </td>
+</tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/apps/dependabot">
+            <img src="https://avatars.githubusercontent.com/in/29110?v=4" width="50;" alt="dependabot[bot]"/>
+            <br />
+            <sub><b>dependabot[bot]</b></sub>
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/sky-littlestar">
             <img src="https://avatars.githubusercontent.com/u/59217691?v=4" width="50;" alt="sky-littlestar"/>
             <br />
             <sub><b>sky-littlestar</b></sub>
-        </a>
-    </td>
-</tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/HalfAnElephant">
-            <img src="https://avatars.githubusercontent.com/u/67222274?v=4" width="50;" alt="HalfAnElephant"/>
-            <br />
-            <sub><b>HalfAnElephant</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/yizhinailong">
-            <img src="https://avatars.githubusercontent.com/u/119092375?v=4" width="50;" alt="yizhinailong"/>
-            <br />
-            <sub><b>yizhinailong</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/d2learn-org">
-            <img src="https://avatars.githubusercontent.com/u/248744407?v=4" width="50;" alt="d2learn-org"/>
-            <br />
-            <sub><b>d2learn-org</b></sub>
         </a>
     </td>
     <td align="center">
@@ -144,8 +137,6 @@
             <sub><b>lost-42</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/topshihun">
             <img src="https://avatars.githubusercontent.com/u/89700178?v=4" width="50;" alt="topshihun"/>
@@ -153,11 +144,34 @@
             <sub><b>topshihun</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/jwaiting">
             <img src="https://avatars.githubusercontent.com/u/39482149?v=4" width="50;" alt="jwaiting"/>
             <br />
             <sub><b>jwaiting</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/HalfAnElephant">
+            <img src="https://avatars.githubusercontent.com/u/67222274?v=4" width="50;" alt="HalfAnElephant"/>
+            <br />
+            <sub><b>HalfAnElephant</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/yizhinailong">
+            <img src="https://avatars.githubusercontent.com/u/119092375?v=4" width="50;" alt="yizhinailong"/>
+            <br />
+            <sub><b>yizhinailong</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/d2learn-org">
+            <img src="https://avatars.githubusercontent.com/u/248744407?v=4" width="50;" alt="d2learn-org"/>
+            <br />
+            <sub><b>d2learn-org</b></sub>
         </a>
     </td>
     <td align="center">
@@ -167,10 +181,20 @@
             <sub><b>ZheFeng7110</b></sub>
         </a>
     </td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td align="center">
+        <a href="https://github.com/apps/copilot-swe-agent">
+            <img src="https://avatars.githubusercontent.com/in/1143301?v=4" width="50;" alt="Copilot"/>
+            <br />
+            <sub><b>Copilot</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/zzxzzk115">
+            <img src="https://avatars.githubusercontent.com/u/33739170?v=4" width="50;" alt="zzxzzk115"/>
+            <br />
+            <sub><b>zzxzzk115</b></sub>
+        </a>
+    </td>
     <td></td>
     <td></td>
     <td></td>

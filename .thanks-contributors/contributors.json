@@ -1,9 +1,13 @@
 {
   "thanks-contributors": "1.0.0",
-  "count": 23,
+  "count": 27,
   "contributors": [
     {
       "name": "13eholder",
+      "email": null
+    },
+    {
+      "name": "2412322029",
       "email": null
     },
     {
@@ -15,7 +19,15 @@
       "email": null
     },
     {
+      "name": "Copilot",
+      "email": null
+    },
+    {
       "name": "Creativecole",
+      "email": null
+    },
+    {
+      "name": "cursoragent",
       "email": null
     },
     {
@@ -93,10 +105,14 @@
     {
       "name": "ZheFeng7110",
       "email": null
+    },
+    {
+      "name": "zzxzzk115",
+      "email": null
     }
   ],
   "details": {
-    "Sunrisepeak/thanks-contributors": {
+    "Sunrisepeak/Sunrisepeak": {
       "count": 1,
       "contributors": [
         {
@@ -105,7 +121,28 @@
         }
       ]
     },
-    "Sunrisepeak/Sunrisepeak": {
+    "Sunrisepeak/devicetree-specification-chinese": {
+      "count": 4,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        },
+        {
+          "name": "wil1jiang",
+          "email": null
+        },
+        {
+          "name": "speak",
+          "email": "speak@speakmbp.lan"
+        },
+        {
+          "name": "tiansongyu",
+          "email": null
+        }
+      ]
+    },
+    "Sunrisepeak/thanks-contributors": {
       "count": 1,
       "contributors": [
         {
@@ -150,27 +187,6 @@
       "contributors": [
         {
           "name": "Sunrisepeak",
-          "email": null
-        }
-      ]
-    },
-    "Sunrisepeak/devicetree-specification-chinese": {
-      "count": 4,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        },
-        {
-          "name": "wil1jiang",
-          "email": null
-        },
-        {
-          "name": "speak",
-          "email": "speak@speakmbp.lan"
-        },
-        {
-          "name": "tiansongyu",
           "email": null
         }
       ]
@@ -507,36 +523,6 @@
         }
       ]
     },
-    "mcpp-community/mcpp": {
-      "count": 3,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        },
-        {
-          "name": "HalfAnElephant",
-          "email": null
-        },
-        {
-          "name": "yizhinailong",
-          "email": null
-        }
-      ]
-    },
-    "mcpp-community/.github": {
-      "count": 2,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        },
-        {
-          "name": "d2learn-org",
-          "email": null
-        }
-      ]
-    },
     "mcpp-community/d2mcpp": {
       "count": 11,
       "contributors": [
@@ -586,6 +572,32 @@
         }
       ]
     },
+    "mcpp-community/mcpp": {
+      "count": 3,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        },
+        {
+          "name": "HalfAnElephant",
+          "email": null
+        },
+        {
+          "name": "yizhinailong",
+          "email": null
+        }
+      ]
+    },
+    "mcpp-community/members": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
     "mcpp-community/mcpp-style-ref": {
       "count": 3,
       "contributors": [
@@ -599,6 +611,19 @@
         },
         {
           "name": "Creativecole",
+          "email": null
+        }
+      ]
+    },
+    "mcpp-community/.github": {
+      "count": 2,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        },
+        {
+          "name": "d2learn-org",
           "email": null
         }
       ]
@@ -664,15 +689,6 @@
         }
       ]
     },
-    "mcpp-community/members": {
-      "count": 1,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        }
-      ]
-    },
     "mcpp-community/issues-helper-template": {
       "count": 1,
       "contributors": [
@@ -682,7 +698,7 @@
         }
       ]
     },
-    "mcpplibs/template": {
+    "mcpplibs/mcpp-index": {
       "count": 1,
       "contributors": [
         {
@@ -691,7 +707,7 @@
         }
       ]
     },
-    "mcpplibs/mcpp-index": {
+    "mcpplibs/template": {
       "count": 1,
       "contributors": [
         {
@@ -759,6 +775,129 @@
       ]
     },
     "mcpplibs/.github": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "openxlings/xlings": {
+      "count": 4,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        },
+        {
+          "name": "MoYingJi",
+          "email": null
+        },
+        {
+          "name": "Copilot",
+          "email": null
+        },
+        {
+          "name": "zzxzzk115",
+          "email": null
+        }
+      ]
+    },
+    "openxlings/xim-pkgindex": {
+      "count": 3,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        },
+        {
+          "name": "MoYingJi",
+          "email": null
+        },
+        {
+          "name": "2412322029",
+          "email": null
+        }
+      ]
+    },
+    "openxlings/libxpkg": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "openxlings/openxlings.github.io": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "openxlings/.github": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "openxlings/xim-pkgindex-template": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "openxlings/xim-pkgindex-fromsource": {
+      "count": 2,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        },
+        {
+          "name": "cursoragent",
+          "email": null
+        }
+      ]
+    },
+    "openxlings/xim-pkgindex-scode": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "openxlings/xim-pkgindex-awesome": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "openxlings/xpkgindex": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "openxlings/xim-pkgindex-skills": {
       "count": 1,
       "contributors": [
         {
