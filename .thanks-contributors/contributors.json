@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.0.0",
-  "count": 27,
+  "count": 28,
   "contributors": [
     {
       "name": "13eholder",
@@ -56,6 +56,10 @@
     },
     {
       "name": "jwaiting",
+      "email": null
+    },
+    {
+      "name": "lczllx",
       "email": null
     },
     {
@@ -524,7 +528,7 @@
       ]
     },
     "mcpp-community/d2mcpp": {
-      "count": 11,
+      "count": 12,
       "contributors": [
         {
           "name": "Sunrisepeak",
@@ -540,6 +544,10 @@
         },
         {
           "name": "Ankali-Aylina",
+          "email": null
+        },
+        {
+          "name": "lczllx",
           "email": null
         },
         {
@@ -572,11 +580,28 @@
         }
       ]
     },
-    "mcpp-community/mcpp": {
-      "count": 3,
+    "mcpp-community/.github": {
+      "count": 2,
       "contributors": [
         {
           "name": "Sunrisepeak",
+          "email": null
+        },
+        {
+          "name": "d2learn-org",
+          "email": null
+        }
+      ]
+    },
+    "mcpp-community/mcpp": {
+      "count": 4,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        },
+        {
+          "name": "d2learn-org",
           "email": null
         },
         {
@@ -585,15 +610,6 @@
         },
         {
           "name": "yizhinailong",
-          "email": null
-        }
-      ]
-    },
-    "mcpp-community/members": {
-      "count": 1,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
           "email": null
         }
       ]
@@ -615,15 +631,11 @@
         }
       ]
     },
-    "mcpp-community/.github": {
-      "count": 2,
+    "mcpp-community/members": {
+      "count": 1,
       "contributors": [
         {
           "name": "Sunrisepeak",
-          "email": null
-        },
-        {
-          "name": "d2learn-org",
           "email": null
         }
       ]
@@ -698,11 +710,42 @@
         }
       ]
     },
+    "mcpplibs/llmapi": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
     "mcpplibs/mcpp-index": {
       "count": 1,
       "contributors": [
         {
           "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpplibs/lua": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpplibs/imgui-m": {
+      "count": 2,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        },
+        {
+          "name": "d2learn-org",
           "email": null
         }
       ]
@@ -725,25 +768,7 @@
         }
       ]
     },
-    "mcpplibs/llmapi": {
-      "count": 1,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        }
-      ]
-    },
     "mcpplibs/tinyhttps": {
-      "count": 1,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        }
-      ]
-    },
-    "mcpplibs/lua": {
       "count": 1,
       "contributors": [
         {

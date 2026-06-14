@@ -24,6 +24,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/d2learn-org">
+            <img src="https://avatars.githubusercontent.com/u/248744407?v=4" width="50;" alt="d2learn-org"/>
+            <br />
+            <sub><b>d2learn-org</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/wil1jiang">
             <img src="https://avatars.githubusercontent.com/u/48466892?v=4" width="50;" alt="wil1jiang"/>
             <br />
@@ -65,6 +72,8 @@
             <sub><b>2412322029</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/tiansongyu">
             <img src="https://avatars.githubusercontent.com/u/22124581?v=4" width="50;" alt="tiansongyu"/>
@@ -72,8 +81,6 @@
             <sub><b>tiansongyu</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/apps/dependabot">
             <img src="https://avatars.githubusercontent.com/in/29110?v=4" width="50;" alt="dependabot[bot]"/>
@@ -100,6 +107,13 @@
             <img src="https://avatars.githubusercontent.com/u/109135335?v=4" width="50;" alt="Ankali-Aylina"/>
             <br />
             <sub><b>Ankali-Aylina</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/lczllx">
+            <img src="https://avatars.githubusercontent.com/u/202370393?v=4" width="50;" alt="lczllx"/>
+            <br />
+            <sub><b>lczllx</b></sub>
         </a>
     </td>
     <td align="center">
@@ -130,6 +144,8 @@
             <sub><b>13eholder</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/lost-42">
             <img src="https://avatars.githubusercontent.com/u/202471602?v=4" width="50;" alt="lost-42"/>
@@ -144,8 +160,6 @@
             <sub><b>topshihun</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/jwaiting">
             <img src="https://avatars.githubusercontent.com/u/39482149?v=4" width="50;" alt="jwaiting"/>
@@ -165,13 +179,6 @@
             <img src="https://avatars.githubusercontent.com/u/119092375?v=4" width="50;" alt="yizhinailong"/>
             <br />
             <sub><b>yizhinailong</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/d2learn-org">
-            <img src="https://avatars.githubusercontent.com/u/248744407?v=4" width="50;" alt="d2learn-org"/>
-            <br />
-            <sub><b>d2learn-org</b></sub>
         </a>
     </td>
     <td align="center">
@@ -195,7 +202,6 @@
             <sub><b>zzxzzk115</b></sub>
         </a>
     </td>
-    <td></td>
     <td></td>
     <td></td>
 </tr>
