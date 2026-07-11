@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.0.0",
-  "count": 30,
+  "count": 31,
   "contributors": [
     {
       "name": "1115040131",
@@ -60,6 +60,10 @@
     },
     {
       "name": "Hebown",
+      "email": null
+    },
+    {
+      "name": "Heptazero",
       "email": null
     },
     {
@@ -124,6 +128,15 @@
     }
   ],
   "details": {
+    "Sunrisepeak/Sunrisepeak": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
     "Sunrisepeak/the-mcpp-world": {
       "count": 1,
       "contributors": [
@@ -150,15 +163,6 @@
         },
         {
           "name": "tiansongyu",
-          "email": null
-        }
-      ]
-    },
-    "Sunrisepeak/Sunrisepeak": {
-      "count": 1,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
           "email": null
         }
       ]
@@ -842,7 +846,7 @@
       ]
     },
     "openxlings/xim-pkgindex": {
-      "count": 4,
+      "count": 5,
       "contributors": [
         {
           "name": "Sunrisepeak",
@@ -858,6 +862,10 @@
         },
         {
           "name": "2412322029",
+          "email": null
+        },
+        {
+          "name": "Heptazero",
           "email": null
         }
       ]

@@ -262,6 +262,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Heptazero">
+            <img src="https://avatars.githubusercontent.com/u/109618330?v=4" width="50;" alt="Heptazero"/>
+            <br />
+            <sub><b>Heptazero</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/apps/copilot-swe-agent">
             <img src="https://avatars.githubusercontent.com/in/1143301?v=4" width="50;" alt="Copilot"/>
             <br />
@@ -275,7 +282,6 @@
             <sub><b>zzxzzk115</b></sub>
         </a>
     </td>
-    <td></td>
     <td></td>
 </tr>
 </table>
