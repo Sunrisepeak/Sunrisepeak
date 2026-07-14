@@ -103,20 +103,6 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/HalfAnElephant">
-            <img src="https://avatars.githubusercontent.com/u/67222274?v=4" width="50;" alt="HalfAnElephant"/>
-            <br />
-            <sub><b>HalfAnElephant</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/yizhinailong">
-            <img src="https://avatars.githubusercontent.com/u/119092375?v=4" width="50;" alt="yizhinailong"/>
-            <br />
-            <sub><b>yizhinailong</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/521xueweihan">
             <img src="https://avatars.githubusercontent.com/u/8255800?v=4" width="50;" alt="521xueweihan"/>
             <br />
@@ -144,8 +130,6 @@
             <sub><b>Hebown</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/MaoApoot">
             <img src="https://avatars.githubusercontent.com/u/77091068?v=4" width="50;" alt="MaoApoot"/>
@@ -160,6 +144,8 @@
             <sub><b>13eholder</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/lost-42">
             <img src="https://avatars.githubusercontent.com/u/202471602?v=4" width="50;" alt="lost-42"/>
@@ -182,10 +168,31 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/HalfAnElephant">
+            <img src="https://avatars.githubusercontent.com/u/67222274?v=4" width="50;" alt="HalfAnElephant"/>
+            <br />
+            <sub><b>HalfAnElephant</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/yizhinailong">
+            <img src="https://avatars.githubusercontent.com/u/119092375?v=4" width="50;" alt="yizhinailong"/>
+            <br />
+            <sub><b>yizhinailong</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/ZheFeng7110">
             <img src="https://avatars.githubusercontent.com/u/194236111?v=4" width="50;" alt="ZheFeng7110"/>
             <br />
             <sub><b>ZheFeng7110</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/johanvx">
+            <img src="https://avatars.githubusercontent.com/u/61529310?v=4" width="50;" alt="johanvx"/>
+            <br />
+            <sub><b>johanvx</b></sub>
         </a>
     </td>
     <td align="center">
@@ -209,6 +216,8 @@
             <sub><b>Heptazero</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/apps/copilot-swe-agent">
             <img src="https://avatars.githubusercontent.com/in/1143301?v=4" width="50;" alt="Copilot"/>
@@ -216,8 +225,6 @@
             <sub><b>Copilot</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/zzxzzk115">
             <img src="https://avatars.githubusercontent.com/u/33739170?v=4" width="50;" alt="zzxzzk115"/>
@@ -225,7 +232,6 @@
             <sub><b>zzxzzk115</b></sub>
         </a>
     </td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
