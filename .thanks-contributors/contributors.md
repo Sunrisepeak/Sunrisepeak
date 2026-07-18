@@ -203,12 +203,21 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/wellwei">
+            <img src="https://avatars.githubusercontent.com/u/96378453?v=4" width="50;" alt="wellwei"/>
+            <br />
+            <sub><b>wellwei</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Aimol-l">
             <img src="https://avatars.githubusercontent.com/u/56304358?v=4" width="50;" alt="Aimol-l"/>
             <br />
             <sub><b>Aimol-l</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/johanvx">
             <img src="https://avatars.githubusercontent.com/u/61529310?v=4" width="50;" alt="johanvx"/>
@@ -216,8 +225,6 @@
             <sub><b>johanvx</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/Heptazero">
             <img src="https://avatars.githubusercontent.com/u/109618330?v=4" width="50;" alt="Heptazero"/>
@@ -239,7 +246,6 @@
             <sub><b>zzxzzk115</b></sub>
         </a>
     </td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>

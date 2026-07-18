@@ -262,6 +262,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/wellwei">
+            <img src="https://avatars.githubusercontent.com/u/96378453?v=4" width="50;" alt="wellwei"/>
+            <br />
+            <sub><b>wellwei</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Aimol-l">
             <img src="https://avatars.githubusercontent.com/u/56304358?v=4" width="50;" alt="Aimol-l"/>
             <br />
@@ -282,6 +289,8 @@
             <sub><b>Heptazero</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/apps/copilot-swe-agent">
             <img src="https://avatars.githubusercontent.com/in/1143301?v=4" width="50;" alt="Copilot"/>
@@ -289,8 +298,6 @@
             <sub><b>Copilot</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/zzxzzk115">
             <img src="https://avatars.githubusercontent.com/u/33739170?v=4" width="50;" alt="zzxzzk115"/>
@@ -298,7 +305,6 @@
             <sub><b>zzxzzk115</b></sub>
         </a>
     </td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
