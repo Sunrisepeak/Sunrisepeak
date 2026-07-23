@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.0.0",
-  "count": 34,
+  "count": 35,
   "contributors": [
     {
       "name": "1115040131",
@@ -36,10 +36,6 @@
     },
     {
       "name": "cursoragent",
-      "email": null
-    },
-    {
-      "name": "d2learn-org",
       "email": null
     },
     {
@@ -103,6 +99,10 @@
       "email": "speak@speakmbp.lan"
     },
     {
+      "name": "speak-agent",
+      "email": null
+    },
+    {
       "name": "Sunrisepeak",
       "email": null
     },
@@ -120,6 +120,10 @@
     },
     {
       "name": "wil1jiang",
+      "email": null
+    },
+    {
+      "name": "xv1rcn",
       "email": null
     },
     {
@@ -150,6 +154,15 @@
       ]
     },
     "Sunrisepeak/opencv-m": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "Sunrisepeak/KHistory": {
       "count": 1,
       "contributors": [
         {
@@ -238,15 +251,6 @@
       ]
     },
     "Sunrisepeak/dstruct": {
-      "count": 1,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        }
-      ]
-    },
-    "Sunrisepeak/KHistory": {
       "count": 1,
       "contributors": [
         {
@@ -579,18 +583,26 @@
       ]
     },
     "mcpp-community/mcpp": {
-      "count": 4,
+      "count": 6,
       "contributors": [
         {
           "name": "Sunrisepeak",
           "email": null
         },
         {
-          "name": "d2learn-org",
+          "name": "speak-agent",
+          "email": null
+        },
+        {
+          "name": "xv1rcn",
           "email": null
         },
         {
           "name": "HalfAnElephant",
+          "email": null
+        },
+        {
+          "name": "ZheFeng7110",
           "email": null
         },
         {
@@ -698,7 +710,7 @@
           "email": null
         },
         {
-          "name": "d2learn-org",
+          "name": "speak-agent",
           "email": null
         }
       ]
@@ -762,14 +774,14 @@
       ]
     },
     "mcpplibs/mcpp-index": {
-      "count": 6,
+      "count": 7,
       "contributors": [
         {
           "name": "Sunrisepeak",
           "email": null
         },
         {
-          "name": "d2learn-org",
+          "name": "speak-agent",
           "email": null
         },
         {
@@ -777,11 +789,15 @@
           "email": null
         },
         {
+          "name": "wellwei",
+          "email": null
+        },
+        {
           "name": "yspbwx2010",
           "email": null
         },
         {
-          "name": "wellwei",
+          "name": "ZheFeng7110",
           "email": null
         },
         {
@@ -820,7 +836,7 @@
           "email": null
         },
         {
-          "name": "d2learn-org",
+          "name": "speak-agent",
           "email": null
         }
       ]
@@ -851,7 +867,7 @@
           "email": null
         },
         {
-          "name": "d2learn-org",
+          "name": "speak-agent",
           "email": null
         }
       ]
@@ -904,7 +920,7 @@
           "email": null
         },
         {
-          "name": "d2learn-org",
+          "name": "speak-agent",
           "email": null
         },
         {
@@ -929,7 +945,7 @@
           "email": null
         },
         {
-          "name": "d2learn-org",
+          "name": "speak-agent",
           "email": null
         },
         {

@@ -74,10 +74,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/d2learn-org">
-            <img src="https://avatars.githubusercontent.com/u/248744407?v=4" width="50;" alt="d2learn-org"/>
+        <a href="https://github.com/speak-agent">
+            <img src="https://avatars.githubusercontent.com/u/248744407?v=4" width="50;" alt="speak-agent"/>
             <br />
-            <sub><b>d2learn-org</b></sub>
+            <sub><b>speak-agent</b></sub>
         </a>
     </td>
     <td align="center">
@@ -109,14 +109,21 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/ZheFeng7110">
+            <img src="https://avatars.githubusercontent.com/u/194236111?v=4" width="50;" alt="ZheFeng7110"/>
+            <br />
+            <sub><b>ZheFeng7110</b></sub>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/lczllx">
             <img src="https://avatars.githubusercontent.com/u/202370393?v=4" width="50;" alt="lczllx"/>
             <br />
             <sub><b>lczllx</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/Mq-b">
             <img src="https://avatars.githubusercontent.com/u/97590219?v=4" width="50;" alt="Mq-b"/>
@@ -136,6 +143,13 @@
             <img src="https://avatars.githubusercontent.com/u/58691509?v=4" width="50;" alt="1115040131"/>
             <br />
             <sub><b>1115040131</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/wellwei">
+            <img src="https://avatars.githubusercontent.com/u/96378453?v=4" width="50;" alt="wellwei"/>
+            <br />
+            <sub><b>wellwei</b></sub>
         </a>
     </td>
     <td align="center">
@@ -159,11 +173,20 @@
             <sub><b>dependabot[bot]</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/sky-littlestar">
             <img src="https://avatars.githubusercontent.com/u/59217691?v=4" width="50;" alt="sky-littlestar"/>
             <br />
             <sub><b>sky-littlestar</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/xv1rcn">
+            <img src="https://avatars.githubusercontent.com/u/86313530?v=4" width="50;" alt="xv1rcn"/>
+            <br />
+            <sub><b>xv1rcn</b></sub>
         </a>
     </td>
     <td align="center">
@@ -173,8 +196,6 @@
             <sub><b>HalfAnElephant</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/yizhinailong">
             <img src="https://avatars.githubusercontent.com/u/119092375?v=4" width="50;" alt="yizhinailong"/>
@@ -210,6 +231,8 @@
             <sub><b>Hebown</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/MaoApoot">
             <img src="https://avatars.githubusercontent.com/u/77091068?v=4" width="50;" alt="MaoApoot"/>
@@ -231,8 +254,6 @@
             <sub><b>lost-42</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/topshihun">
             <img src="https://avatars.githubusercontent.com/u/89700178?v=4" width="50;" alt="topshihun"/>
@@ -248,24 +269,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/ZheFeng7110">
-            <img src="https://avatars.githubusercontent.com/u/194236111?v=4" width="50;" alt="ZheFeng7110"/>
-            <br />
-            <sub><b>ZheFeng7110</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/yspbwx2010">
             <img src="https://avatars.githubusercontent.com/u/120697095?v=4" width="50;" alt="yspbwx2010"/>
             <br />
             <sub><b>yspbwx2010</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/wellwei">
-            <img src="https://avatars.githubusercontent.com/u/96378453?v=4" width="50;" alt="wellwei"/>
-            <br />
-            <sub><b>wellwei</b></sub>
         </a>
     </td>
     <td align="center">
@@ -282,6 +289,8 @@
             <sub><b>johanvx</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Heptazero">
             <img src="https://avatars.githubusercontent.com/u/109618330?v=4" width="50;" alt="Heptazero"/>
@@ -289,8 +298,6 @@
             <sub><b>Heptazero</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/apps/copilot-swe-agent">
             <img src="https://avatars.githubusercontent.com/in/1143301?v=4" width="50;" alt="Copilot"/>
@@ -305,7 +312,6 @@
             <sub><b>zzxzzk115</b></sub>
         </a>
     </td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
