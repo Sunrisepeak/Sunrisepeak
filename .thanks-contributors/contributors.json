@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.0.0",
-  "count": 35,
+  "count": 36,
   "contributors": [
     {
       "name": "1115040131",
@@ -44,6 +44,10 @@
     },
     {
       "name": "ExquisiteCore",
+      "email": null
+    },
+    {
+      "name": "FarnaHerry",
       "email": null
     },
     {
@@ -144,43 +148,7 @@
     }
   ],
   "details": {
-    "Sunrisepeak/mbun": {
-      "count": 1,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        }
-      ]
-    },
     "Sunrisepeak/opencv-m": {
-      "count": 1,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        }
-      ]
-    },
-    "Sunrisepeak/KHistory": {
-      "count": 1,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        }
-      ]
-    },
-    "Sunrisepeak/Sunrisepeak": {
-      "count": 1,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        }
-      ]
-    },
-    "Sunrisepeak/the-mcpp-world": {
       "count": 1,
       "contributors": [
         {
@@ -210,7 +178,7 @@
         }
       ]
     },
-    "Sunrisepeak/HelloWorld": {
+    "Sunrisepeak/mbun": {
       "count": 1,
       "contributors": [
         {
@@ -220,6 +188,42 @@
       ]
     },
     "Sunrisepeak/thanks-contributors": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "Sunrisepeak/Sunrisepeak": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "Sunrisepeak/KHistory": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "Sunrisepeak/the-mcpp-world": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "Sunrisepeak/HelloWorld": {
       "count": 1,
       "contributors": [
         {
@@ -452,7 +456,7 @@
         }
       ]
     },
-    "d2learn/xim-pkgindex-d2x": {
+    "d2learn/d2x": {
       "count": 1,
       "contributors": [
         {
@@ -461,7 +465,7 @@
         }
       ]
     },
-    "d2learn/d2x": {
+    "d2learn/xim-pkgindex-d2x": {
       "count": 1,
       "contributors": [
         {
@@ -583,7 +587,7 @@
       ]
     },
     "mcpp-community/mcpp": {
-      "count": 6,
+      "count": 7,
       "contributors": [
         {
           "name": "Sunrisepeak",
@@ -591,6 +595,10 @@
         },
         {
           "name": "speak-agent",
+          "email": null
+        },
+        {
+          "name": "ZheFeng7110",
           "email": null
         },
         {
@@ -602,7 +610,7 @@
           "email": null
         },
         {
-          "name": "ZheFeng7110",
+          "name": "wellwei",
           "email": null
         },
         {
@@ -664,6 +672,19 @@
         }
       ]
     },
+    "mcpp-community/.github": {
+      "count": 2,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        },
+        {
+          "name": "speak-agent",
+          "email": null
+        }
+      ]
+    },
     "mcpp-community/mcpp-style-ref": {
       "count": 3,
       "contributors": [
@@ -698,19 +719,6 @@
         },
         {
           "name": "ZheFeng7110",
-          "email": null
-        }
-      ]
-    },
-    "mcpp-community/.github": {
-      "count": 2,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        },
-        {
-          "name": "speak-agent",
           "email": null
         }
       ]
@@ -774,18 +782,10 @@
       ]
     },
     "mcpplibs/mcpp-index": {
-      "count": 7,
+      "count": 8,
       "contributors": [
         {
           "name": "Sunrisepeak",
-          "email": null
-        },
-        {
-          "name": "speak-agent",
-          "email": null
-        },
-        {
-          "name": "1115040131",
           "email": null
         },
         {
@@ -793,7 +793,15 @@
           "email": null
         },
         {
-          "name": "yspbwx2010",
+          "name": "speak-agent",
+          "email": null
+        },
+        {
+          "name": "FarnaHerry",
+          "email": null
+        },
+        {
+          "name": "1115040131",
           "email": null
         },
         {
@@ -801,7 +809,20 @@
           "email": null
         },
         {
+          "name": "yspbwx2010",
+          "email": null
+        },
+        {
           "name": "Aimol-l",
+          "email": null
+        }
+      ]
+    },
+    "mcpplibs/llama.cpp-m": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
           "email": null
         }
       ]
@@ -912,6 +933,35 @@
         }
       ]
     },
+    "openxlings/xlings": {
+      "count": 6,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        },
+        {
+          "name": "speak-agent",
+          "email": null
+        },
+        {
+          "name": "MoYingJi",
+          "email": null
+        },
+        {
+          "name": "Copilot",
+          "email": null
+        },
+        {
+          "name": "zzxzzk115",
+          "email": null
+        },
+        {
+          "name": "ZheFeng7110",
+          "email": null
+        }
+      ]
+    },
     "openxlings/xim-pkgindex": {
       "count": 5,
       "contributors": [
@@ -937,27 +987,11 @@
         }
       ]
     },
-    "openxlings/xlings": {
-      "count": 5,
+    "openxlings/libxpkg": {
+      "count": 1,
       "contributors": [
         {
           "name": "Sunrisepeak",
-          "email": null
-        },
-        {
-          "name": "speak-agent",
-          "email": null
-        },
-        {
-          "name": "MoYingJi",
-          "email": null
-        },
-        {
-          "name": "Copilot",
-          "email": null
-        },
-        {
-          "name": "zzxzzk115",
           "email": null
         }
       ]
@@ -972,15 +1006,6 @@
       ]
     },
     "openxlings/xim-pkgindex-awesome": {
-      "count": 1,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        }
-      ]
-    },
-    "openxlings/libxpkg": {
       "count": 1,
       "contributors": [
         {
