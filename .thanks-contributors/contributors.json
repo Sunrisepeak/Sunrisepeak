@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.1.0",
-  "count": 48,
+  "count": 45,
   "display": {
     "sort_pinned": [
       "Sunrisepeak"
@@ -14,8 +14,8 @@
       "name": "Sunrisepeak",
       "email": null,
       "login": "Sunrisepeak",
-      "contributions": 5067,
-      "recent_commits": 3819
+      "contributions": 5085,
+      "recent_commits": 3835
     },
     {
       "name": "FrozenLemonTee",
@@ -151,13 +151,6 @@
       "recent_commits": 2
     },
     {
-      "name": "mcpplibs",
-      "email": "noreply@mcpplibs.org",
-      "login": null,
-      "contributions": 2,
-      "recent_commits": 2
-    },
-    {
       "name": "Mq-b",
       "email": null,
       "login": "Mq-b",
@@ -270,13 +263,6 @@
       "recent_commits": 1
     },
     {
-      "name": "xlings-ci",
-      "email": "ci@xlings.dev",
-      "login": null,
-      "contributions": 1,
-      "recent_commits": 1
-    },
-    {
       "name": "YangQi0408",
       "email": null,
       "login": "YangQi0408",
@@ -288,13 +274,6 @@
       "email": null,
       "login": "wil1jiang",
       "contributions": 8,
-      "recent_commits": 0
-    },
-    {
-      "name": "speak",
-      "email": "speak@speakmbp.lan",
-      "login": null,
-      "contributions": 4,
       "recent_commits": 0
     },
     {
@@ -348,6 +327,15 @@
     }
   ],
   "details": {
+    "Sunrisepeak/mcppls-clangd": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
     "Sunrisepeak/thanks-contributors": {
       "count": 1,
       "contributors": [
@@ -357,7 +345,7 @@
         }
       ]
     },
-    "Sunrisepeak/mcppls-clangd": {
+    "Sunrisepeak/Sunrisepeak": {
       "count": 1,
       "contributors": [
         {
@@ -412,7 +400,7 @@
       ]
     },
     "Sunrisepeak/devicetree-specification-chinese": {
-      "count": 4,
+      "count": 3,
       "contributors": [
         {
           "name": "Sunrisepeak",
@@ -421,10 +409,6 @@
         {
           "name": "wil1jiang",
           "email": null
-        },
-        {
-          "name": "speak",
-          "email": "speak@speakmbp.lan"
         },
         {
           "name": "tiansongyu",
@@ -475,15 +459,6 @@
       ]
     },
     "Sunrisepeak/HelloWorld": {
-      "count": 1,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        }
-      ]
-    },
-    "Sunrisepeak/Sunrisepeak": {
       "count": 1,
       "contributors": [
         {
@@ -1225,15 +1200,11 @@
       ]
     },
     "mcpplibs/openkal-windows": {
-      "count": 2,
+      "count": 1,
       "contributors": [
         {
           "name": "Sunrisepeak",
           "email": null
-        },
-        {
-          "name": "mcpplibs",
-          "email": "noreply@mcpplibs.org"
         }
       ]
     },
@@ -1578,7 +1549,7 @@
       ]
     },
     "openxlings/xim-pkgindex": {
-      "count": 9,
+      "count": 8,
       "contributors": [
         {
           "name": "Sunrisepeak",
@@ -1611,10 +1582,6 @@
         {
           "name": "lildengzi",
           "email": null
-        },
-        {
-          "name": "xlings-ci",
-          "email": "ci@xlings.dev"
         }
       ]
     },
