@@ -16,8 +16,9 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Collect contributors
-        uses: Sunrisepeak/thanks-contributors@0.0.5
+        uses: Sunrisepeak/thanks-contributors@0.0.6
         with:
             readme_path: README.md
             targets: 'Sunrisepeak/* d2learn/* mcpp-community/* mcpplibs/* openxlings/*'
             sort_pinned: 'Sunrisepeak'
+            exclude_logins: 'mcpplibs xlings-ci speak'
