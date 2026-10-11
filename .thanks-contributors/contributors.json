@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.1.0",
-  "count": 45,
+  "count": 44,
   "display": {
     "sort_pinned": [
       "Sunrisepeak"
@@ -14,8 +14,8 @@
       "name": "Sunrisepeak",
       "email": null,
       "login": "Sunrisepeak",
-      "contributions": 5111,
-      "recent_commits": 3861
+      "contributions": 5163,
+      "recent_commits": 3909
     },
     {
       "name": "FrozenLemonTee",
@@ -23,13 +23,6 @@
       "login": "FrozenLemonTee",
       "contributions": 339,
       "recent_commits": 339
-    },
-    {
-      "name": "wellwei",
-      "email": null,
-      "login": "wellwei",
-      "contributions": 99,
-      "recent_commits": 99
     },
     {
       "name": "FarnaHerry",
@@ -42,22 +35,22 @@
       "name": "helantianshen",
       "email": null,
       "login": "helantianshen",
-      "contributions": 33,
-      "recent_commits": 33
+      "contributions": 34,
+      "recent_commits": 34
     },
     {
       "name": "ZheFeng7110",
       "email": null,
       "login": "ZheFeng7110",
-      "contributions": 17,
-      "recent_commits": 17
+      "contributions": 18,
+      "recent_commits": 18
     },
     {
       "name": "yspbwx2010",
       "email": null,
       "login": "yspbwx2010",
-      "contributions": 13,
-      "recent_commits": 13
+      "contributions": 15,
+      "recent_commits": 15
     },
     {
       "name": "Ximiaw",
@@ -70,8 +63,8 @@
       "name": "XxingGoD",
       "email": null,
       "login": "XxingGoD",
-      "contributions": 7,
-      "recent_commits": 7
+      "contributions": 8,
+      "recent_commits": 8
     },
     {
       "name": "julixian",
@@ -147,6 +140,13 @@
       "name": "temotee2103",
       "email": null,
       "login": "temotee2103",
+      "contributions": 2,
+      "recent_commits": 2
+    },
+    {
+      "name": "tz12323",
+      "email": null,
+      "login": "tz12323",
       "contributions": 2,
       "recent_commits": 2
     },
@@ -238,13 +238,6 @@
       "name": "topshihun",
       "email": null,
       "login": "topshihun",
-      "contributions": 1,
-      "recent_commits": 1
-    },
-    {
-      "name": "tz12323",
-      "email": null,
-      "login": "tz12323",
       "contributions": 1,
       "recent_commits": 1
     },
@@ -932,7 +925,7 @@
       ]
     },
     "mcpp-community/mcpp": {
-      "count": 9,
+      "count": 8,
       "contributors": [
         {
           "name": "Sunrisepeak",
@@ -944,10 +937,6 @@
         },
         {
           "name": "julixian",
-          "email": null
-        },
-        {
-          "name": "wellwei",
           "email": null
         },
         {
@@ -1034,12 +1023,8 @@
       ]
     },
     "mcpp-community/mcpp-vscode": {
-      "count": 5,
+      "count": 4,
       "contributors": [
-        {
-          "name": "wellwei",
-          "email": null
-        },
         {
           "name": "Ximiaw",
           "email": null
@@ -1225,12 +1210,8 @@
       "contributors": []
     },
     "mcpplibs/llama.cpp-m": {
-      "count": 2,
+      "count": 1,
       "contributors": [
-        {
-          "name": "wellwei",
-          "email": null
-        },
         {
           "name": "Sunrisepeak",
           "email": null
@@ -1256,14 +1237,10 @@
       ]
     },
     "mcpplibs/mcpp-index": {
-      "count": 12,
+      "count": 11,
       "contributors": [
         {
           "name": "Sunrisepeak",
-          "email": null
-        },
-        {
-          "name": "wellwei",
           "email": null
         },
         {
@@ -1295,15 +1272,15 @@
           "email": null
         },
         {
+          "name": "tz12323",
+          "email": null
+        },
+        {
           "name": "yizhinailong",
           "email": null
         },
         {
           "name": "Aimol-l",
-          "email": null
-        },
-        {
-          "name": "tz12323",
           "email": null
         }
       ]
@@ -1585,7 +1562,7 @@
       ]
     },
     "openxlings/xim-pkgindex": {
-      "count": 9,
+      "count": 8,
       "contributors": [
         {
           "name": "Sunrisepeak",
@@ -1596,11 +1573,11 @@
           "email": null
         },
         {
-          "name": "MoYingJi",
+          "name": "helantianshen",
           "email": null
         },
         {
-          "name": "helantianshen",
+          "name": "MoYingJi",
           "email": null
         },
         {
@@ -1617,10 +1594,6 @@
         },
         {
           "name": "lildengzi",
-          "email": null
-        },
-        {
-          "name": "wellwei",
           "email": null
         }
       ]
