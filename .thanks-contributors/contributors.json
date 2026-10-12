@@ -14,8 +14,8 @@
       "name": "Sunrisepeak",
       "email": null,
       "login": "Sunrisepeak",
-      "contributions": 5163,
-      "recent_commits": 3909
+      "contributions": 5180,
+      "recent_commits": 3923
     },
     {
       "name": "FrozenLemonTee",
@@ -102,6 +102,13 @@
       "recent_commits": 3
     },
     {
+      "name": "tz12323",
+      "email": null,
+      "login": "tz12323",
+      "contributions": 3,
+      "recent_commits": 3
+    },
+    {
       "name": "yizhinailong",
       "email": null,
       "login": "yizhinailong",
@@ -140,13 +147,6 @@
       "name": "temotee2103",
       "email": null,
       "login": "temotee2103",
-      "contributions": 2,
-      "recent_commits": 2
-    },
-    {
-      "name": "tz12323",
-      "email": null,
-      "login": "tz12323",
       "contributions": 2,
       "recent_commits": 2
     },
@@ -1260,6 +1260,10 @@
           "email": null
         },
         {
+          "name": "tz12323",
+          "email": null
+        },
+        {
           "name": "1115040131",
           "email": null
         },
@@ -1269,10 +1273,6 @@
         },
         {
           "name": "XxingGoD",
-          "email": null
-        },
-        {
-          "name": "tz12323",
           "email": null
         },
         {

@@ -96,6 +96,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/tz12323">
+            <img src="https://avatars.githubusercontent.com/u/190197873?v=4" width="50;" alt="tz12323"/>
+            <br />
+            <sub><b>tz12323</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/yizhinailong">
             <img src="https://avatars.githubusercontent.com/u/119092375?v=4" width="50;" alt="yizhinailong"/>
             <br />
@@ -135,13 +142,6 @@
             <img src="https://avatars.githubusercontent.com/u/95536550?v=4" width="50;" alt="temotee2103"/>
             <br />
             <sub><b>temotee2103</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/tz12323">
-            <img src="https://avatars.githubusercontent.com/u/190197873?v=4" width="50;" alt="tz12323"/>
-            <br />
-            <sub><b>tz12323</b></sub>
         </a>
     </td>
 </tr>
