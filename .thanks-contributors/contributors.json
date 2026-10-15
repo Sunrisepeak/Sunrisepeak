@@ -14,8 +14,8 @@
       "name": "Sunrisepeak",
       "email": null,
       "login": "Sunrisepeak",
-      "contributions": 5201,
-      "recent_commits": 3944
+      "contributions": 5203,
+      "recent_commits": 3946
     },
     {
       "name": "FrozenLemonTee",
@@ -53,6 +53,13 @@
       "recent_commits": 15
     },
     {
+      "name": "tz12323",
+      "email": null,
+      "login": "tz12323",
+      "contributions": 8,
+      "recent_commits": 8
+    },
+    {
       "name": "Ximiaw",
       "email": null,
       "login": "Ximiaw",
@@ -65,13 +72,6 @@
       "login": "XxingGoD",
       "contributions": 8,
       "recent_commits": 8
-    },
-    {
-      "name": "tz12323",
-      "email": null,
-      "login": "tz12323",
-      "contributions": 7,
-      "recent_commits": 7
     },
     {
       "name": "julixian",
@@ -95,6 +95,13 @@
       "recent_commits": 4
     },
     {
+      "name": "yizhinailong",
+      "email": null,
+      "login": "yizhinailong",
+      "contributions": 4,
+      "recent_commits": 4
+    },
+    {
       "name": "MoYingJi",
       "email": null,
       "login": "MoYingJi",
@@ -105,13 +112,6 @@
       "name": "duyanta123",
       "email": null,
       "login": "duyanta123",
-      "contributions": 3,
-      "recent_commits": 3
-    },
-    {
-      "name": "yizhinailong",
-      "email": null,
-      "login": "yizhinailong",
       "contributions": 3,
       "recent_commits": 3
     },
@@ -1264,6 +1264,10 @@
           "email": null
         },
         {
+          "name": "yizhinailong",
+          "email": null
+        },
+        {
           "name": "1115040131",
           "email": null
         },
@@ -1273,10 +1277,6 @@
         },
         {
           "name": "XxingGoD",
-          "email": null
-        },
-        {
-          "name": "yizhinailong",
           "email": null
         },
         {
