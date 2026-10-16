@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.1.0",
-  "count": 44,
+  "count": 45,
   "display": {
     "sort_pinned": [
       "Sunrisepeak"
@@ -14,8 +14,8 @@
       "name": "Sunrisepeak",
       "email": null,
       "login": "Sunrisepeak",
-      "contributions": 5203,
-      "recent_commits": 3946
+      "contributions": 5208,
+      "recent_commits": 3951
     },
     {
       "name": "FrozenLemonTee",
@@ -28,8 +28,8 @@
       "name": "FarnaHerry",
       "email": null,
       "login": "FarnaHerry",
-      "contributions": 36,
-      "recent_commits": 36
+      "contributions": 37,
+      "recent_commits": 37
     },
     {
       "name": "helantianshen",
@@ -42,8 +42,8 @@
       "name": "ZheFeng7110",
       "email": null,
       "login": "ZheFeng7110",
-      "contributions": 20,
-      "recent_commits": 20
+      "contributions": 21,
+      "recent_commits": 21
     },
     {
       "name": "yspbwx2010",
@@ -81,6 +81,13 @@
       "recent_commits": 6
     },
     {
+      "name": "yizhinailong",
+      "email": null,
+      "login": "yizhinailong",
+      "contributions": 5,
+      "recent_commits": 5
+    },
+    {
       "name": "lczllx",
       "email": null,
       "login": "lczllx",
@@ -91,13 +98,6 @@
       "name": "lildengzi",
       "email": null,
       "login": "lildengzi",
-      "contributions": 4,
-      "recent_commits": 4
-    },
-    {
-      "name": "yizhinailong",
-      "email": null,
-      "login": "yizhinailong",
       "contributions": 4,
       "recent_commits": 4
     },
@@ -168,6 +168,13 @@
       "name": "alib8b8",
       "email": null,
       "login": "alib8b8",
+      "contributions": 1,
+      "recent_commits": 1
+    },
+    {
+      "name": "dannyward630",
+      "email": null,
+      "login": "dannyward630",
       "contributions": 1,
       "recent_commits": 1
     },
@@ -925,7 +932,7 @@
       ]
     },
     "mcpp-community/mcpp": {
-      "count": 8,
+      "count": 9,
       "contributors": [
         {
           "name": "Sunrisepeak",
@@ -949,6 +956,10 @@
         },
         {
           "name": "HalfAnElephant",
+          "email": null
+        },
+        {
+          "name": "dannyward630",
           "email": null
         },
         {
@@ -1260,11 +1271,11 @@
           "email": null
         },
         {
-          "name": "helantianshen",
+          "name": "yizhinailong",
           "email": null
         },
         {
-          "name": "yizhinailong",
+          "name": "helantianshen",
           "email": null
         },
         {
