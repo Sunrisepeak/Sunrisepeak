@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.1.0",
-  "count": 45,
+  "count": 46,
   "display": {
     "sort_pinned": [
       "Sunrisepeak"
@@ -14,8 +14,8 @@
       "name": "Sunrisepeak",
       "email": null,
       "login": "Sunrisepeak",
-      "contributions": 5233,
-      "recent_commits": 3976
+      "contributions": 5241,
+      "recent_commits": 3984
     },
     {
       "name": "FrozenLemonTee",
@@ -53,18 +53,18 @@
       "recent_commits": 15
     },
     {
+      "name": "tz12323",
+      "email": null,
+      "login": "tz12323",
+      "contributions": 9,
+      "recent_commits": 9
+    },
+    {
       "name": "XxingGoD",
       "email": null,
       "login": "XxingGoD",
       "contributions": 9,
       "recent_commits": 9
-    },
-    {
-      "name": "tz12323",
-      "email": null,
-      "login": "tz12323",
-      "contributions": 8,
-      "recent_commits": 8
     },
     {
       "name": "Ximiaw",
@@ -84,8 +84,8 @@
       "name": "yizhinailong",
       "email": null,
       "login": "yizhinailong",
-      "contributions": 5,
-      "recent_commits": 5
+      "contributions": 6,
+      "recent_commits": 6
     },
     {
       "name": "lczllx",
@@ -140,6 +140,13 @@
       "name": "gzj-creator",
       "email": null,
       "login": "gzj-creator",
+      "contributions": 2,
+      "recent_commits": 2
+    },
+    {
+      "name": "lihaoze123",
+      "email": null,
+      "login": "lihaoze123",
       "contributions": 2,
       "recent_commits": 2
     },
@@ -932,7 +939,7 @@
       ]
     },
     "mcpp-community/mcpp": {
-      "count": 9,
+      "count": 10,
       "contributors": [
         {
           "name": "Sunrisepeak",
@@ -960,6 +967,10 @@
         },
         {
           "name": "dannyward630",
+          "email": null
+        },
+        {
+          "name": "lihaoze123",
           "email": null
         },
         {
@@ -1041,15 +1052,15 @@
           "email": null
         },
         {
+          "name": "Sunrisepeak",
+          "email": null
+        },
+        {
           "name": "helantianshen",
           "email": null
         },
         {
           "name": "lildengzi",
-          "email": null
-        },
-        {
-          "name": "Sunrisepeak",
           "email": null
         }
       ]
@@ -1059,6 +1070,15 @@
       "contributors": [
         {
           "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpp-community/nix-mcpp": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "lihaoze123",
           "email": null
         }
       ]
