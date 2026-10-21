@@ -125,17 +125,17 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/julixian">
-            <img src="https://avatars.githubusercontent.com/u/69948116?v=4" width="50;" alt="julixian"/>
-            <br />
-            <sub><b>julixian</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/yizhinailong">
             <img src="https://avatars.githubusercontent.com/u/119092375?v=4" width="50;" alt="yizhinailong"/>
             <br />
             <sub><b>yizhinailong</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/julixian">
+            <img src="https://avatars.githubusercontent.com/u/69948116?v=4" width="50;" alt="julixian"/>
+            <br />
+            <sub><b>julixian</b></sub>
         </a>
     </td>
     <td align="center">
