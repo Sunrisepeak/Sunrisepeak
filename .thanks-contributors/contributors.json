@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.1.0",
-  "count": 46,
+  "count": 47,
   "display": {
     "sort_pinned": [
       "Sunrisepeak"
@@ -14,8 +14,8 @@
       "name": "Sunrisepeak",
       "email": null,
       "login": "Sunrisepeak",
-      "contributions": 5397,
-      "recent_commits": 4129
+      "contributions": 5492,
+      "recent_commits": 4223
     },
     {
       "name": "FrozenLemonTee",
@@ -25,16 +25,16 @@
       "recent_commits": 339
     },
     {
-      "name": "FarnaHerry",
-      "email": null,
-      "login": "FarnaHerry",
-      "contributions": 38,
-      "recent_commits": 38
-    },
-    {
       "name": "ZheFeng7110",
       "email": null,
       "login": "ZheFeng7110",
+      "contributions": 40,
+      "recent_commits": 40
+    },
+    {
+      "name": "FarnaHerry",
+      "email": null,
+      "login": "FarnaHerry",
       "contributions": 38,
       "recent_commits": 38
     },
@@ -112,6 +112,13 @@
       "name": "duyanta123",
       "email": null,
       "login": "duyanta123",
+      "contributions": 3,
+      "recent_commits": 3
+    },
+    {
+      "name": "xllmapi-official",
+      "email": null,
+      "login": "xllmapi-official",
       "contributions": 3,
       "recent_commits": 3
     },
@@ -1014,6 +1021,19 @@
         }
       ]
     },
+    "mcpp-community/mcpp-ide": {
+      "count": 2,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        },
+        {
+          "name": "xllmapi-official",
+          "email": null
+        }
+      ]
+    },
     "mcpp-community/mcpp-plugins": {
       "count": 2,
       "contributors": [
@@ -1136,6 +1156,15 @@
         }
       ]
     },
+    "mcpplibs/box2d-m": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
     "mcpplibs/cairo": {
       "count": 0,
       "contributors": []
@@ -1184,6 +1213,15 @@
         }
       ]
     },
+    "mcpplibs/concurrentqueue-m": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
     "mcpplibs/cortex-m-rt": {
       "count": 1,
       "contributors": [
@@ -1206,6 +1244,24 @@
       "count": 0,
       "contributors": []
     },
+    "mcpplibs/freetype-m": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpplibs/fribidi-m": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
     "mcpplibs/glib": {
       "count": 1,
       "contributors": [
@@ -1225,6 +1281,15 @@
       ]
     },
     "mcpplibs/grpc-m": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpplibs/harfbuzz-m": {
       "count": 1,
       "contributors": [
         {
@@ -1263,6 +1328,15 @@
       "count": 0,
       "contributors": []
     },
+    "mcpplibs/libpng-m": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
     "mcpplibs/libxkbcommon": {
       "count": 0,
       "contributors": []
@@ -1286,6 +1360,15 @@
       ]
     },
     "mcpplibs/lua": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpplibs/lua-m": {
       "count": 1,
       "contributors": [
         {
@@ -1353,6 +1436,15 @@
       ]
     },
     "mcpplibs/md4c-m": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpplibs/miniaudio-m": {
       "count": 1,
       "contributors": [
         {
@@ -1459,6 +1551,15 @@
         }
       ]
     },
+    "mcpplibs/openkal-platform": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
     "mcpplibs/openkal-uefi": {
       "count": 1,
       "contributors": [
@@ -1521,6 +1622,15 @@
         }
       ]
     },
+    "mcpplibs/quickjs-ng-m": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
     "mcpplibs/riscv-virt-rt": {
       "count": 1,
       "contributors": [
@@ -1531,6 +1641,24 @@
       ]
     },
     "mcpplibs/sbase": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpplibs/sdl3-m": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpplibs/sheenbidi-m": {
       "count": 1,
       "contributors": [
         {
