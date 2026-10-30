@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.1.0",
-  "count": 47,
+  "count": 48,
   "display": {
     "sort_pinned": [
       "Sunrisepeak"
@@ -14,8 +14,8 @@
       "name": "Sunrisepeak",
       "email": null,
       "login": "Sunrisepeak",
-      "contributions": 5492,
-      "recent_commits": 4223
+      "contributions": 5584,
+      "recent_commits": 4313
     },
     {
       "name": "FrozenLemonTee",
@@ -25,18 +25,18 @@
       "recent_commits": 339
     },
     {
+      "name": "FarnaHerry",
+      "email": null,
+      "login": "FarnaHerry",
+      "contributions": 40,
+      "recent_commits": 40
+    },
+    {
       "name": "ZheFeng7110",
       "email": null,
       "login": "ZheFeng7110",
       "contributions": 40,
       "recent_commits": 40
-    },
-    {
-      "name": "FarnaHerry",
-      "email": null,
-      "login": "FarnaHerry",
-      "contributions": 38,
-      "recent_commits": 38
     },
     {
       "name": "helantianshen",
@@ -154,6 +154,13 @@
       "name": "lihaoze123",
       "email": null,
       "login": "lihaoze123",
+      "contributions": 2,
+      "recent_commits": 2
+    },
+    {
+      "name": "NopeCharon",
+      "email": null,
+      "login": "NopeCharon",
       "contributions": 2,
       "recent_commits": 2
     },
@@ -955,7 +962,7 @@
       ]
     },
     "mcpp-community/mcpp": {
-      "count": 10,
+      "count": 11,
       "contributors": [
         {
           "name": "Sunrisepeak",
@@ -971,6 +978,10 @@
         },
         {
           "name": "helantianshen",
+          "email": null
+        },
+        {
+          "name": "NopeCharon",
           "email": null
         },
         {
@@ -1231,6 +1242,15 @@
         }
       ]
     },
+    "mcpplibs/dr_libs-m": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
     "mcpplibs/ffmpeg-m": {
       "count": 1,
       "contributors": [
@@ -1329,6 +1349,24 @@
       "contributors": []
     },
     "mcpplibs/libpng-m": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpplibs/libvpx-m": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpplibs/libwebp-m": {
       "count": 1,
       "contributors": [
         {
@@ -1578,6 +1616,15 @@
         }
       ]
     },
+    "mcpplibs/opus-m": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
     "mcpplibs/os": {
       "count": 1,
       "contributors": [
@@ -1599,6 +1646,15 @@
     "mcpplibs/picolibc": {
       "count": 0,
       "contributors": []
+    },
+    "mcpplibs/pocketpy-m": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
     },
     "mcpplibs/primitives": {
       "count": 2,
