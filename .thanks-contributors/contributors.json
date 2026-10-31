@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.1.0",
-  "count": 48,
+  "count": 49,
   "display": {
     "sort_pinned": [
       "Sunrisepeak"
@@ -14,8 +14,8 @@
       "name": "Sunrisepeak",
       "email": null,
       "login": "Sunrisepeak",
-      "contributions": 5584,
-      "recent_commits": 4313
+      "contributions": 5613,
+      "recent_commits": 4341
     },
     {
       "name": "FrozenLemonTee",
@@ -259,6 +259,13 @@
       "name": "ralfsqual",
       "email": null,
       "login": "ralfsqual",
+      "contributions": 1,
+      "recent_commits": 1
+    },
+    {
+      "name": "StellavacuaLuxumbra",
+      "email": null,
+      "login": "StellavacuaLuxumbra",
       "contributions": 1,
       "recent_commits": 1
     },
@@ -870,6 +877,15 @@
       "contributors": [
         {
           "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpp-community/Seanami": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "StellavacuaLuxumbra",
           "email": null
         }
       ]
