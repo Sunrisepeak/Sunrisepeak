@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.1.0",
-  "count": 49,
+  "count": 48,
   "display": {
     "sort_pinned": [
       "Sunrisepeak"
@@ -14,8 +14,8 @@
       "name": "Sunrisepeak",
       "email": null,
       "login": "Sunrisepeak",
-      "contributions": 5613,
-      "recent_commits": 4341
+      "contributions": 5655,
+      "recent_commits": 4379
     },
     {
       "name": "FrozenLemonTee",
@@ -259,13 +259,6 @@
       "name": "ralfsqual",
       "email": null,
       "login": "ralfsqual",
-      "contributions": 1,
-      "recent_commits": 1
-    },
-    {
-      "name": "StellavacuaLuxumbra",
-      "email": null,
-      "login": "StellavacuaLuxumbra",
       "contributions": 1,
       "recent_commits": 1
     },
@@ -881,15 +874,6 @@
         }
       ]
     },
-    "mcpp-community/Seanami": {
-      "count": 1,
-      "contributors": [
-        {
-          "name": "StellavacuaLuxumbra",
-          "email": null
-        }
-      ]
-    },
     "mcpp-community/d2mcpp": {
       "count": 12,
       "contributors": [
@@ -1162,6 +1146,15 @@
       ]
     },
     "mcpplibs/aarch64-virt-rt": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpplibs/accesskit-m": {
       "count": 1,
       "contributors": [
         {

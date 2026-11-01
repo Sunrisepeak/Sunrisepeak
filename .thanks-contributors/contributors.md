@@ -261,13 +261,6 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/StellavacuaLuxumbra">
-            <img src="https://avatars.githubusercontent.com/u/288632860?v=4" width="50;" alt="StellavacuaLuxumbra"/>
-            <br />
-            <sub><b>StellavacuaLuxumbra</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/topshihun">
             <img src="https://avatars.githubusercontent.com/u/89700178?v=4" width="50;" alt="topshihun"/>
             <br />
@@ -288,8 +281,6 @@
             <sub><b>YangQi0408</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/Zlyraz">
             <img src="https://avatars.githubusercontent.com/u/309086313?v=4" width="50;" alt="Zlyraz"/>
@@ -297,6 +288,8 @@
             <sub><b>Zlyraz</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/wil1jiang">
             <img src="https://avatars.githubusercontent.com/u/48466892?v=4" width="50;" alt="wil1jiang"/>
@@ -353,6 +346,7 @@
             <sub><b>zzxzzk115</b></sub>
         </a>
     </td>
+    <td></td>
     <td></td>
 </tr>
 </table>
