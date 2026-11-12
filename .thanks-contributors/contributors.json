@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.1.0",
-  "count": 48,
+  "count": 49,
   "display": {
     "sort_pinned": [
       "Sunrisepeak"
@@ -14,8 +14,8 @@
       "name": "Sunrisepeak",
       "email": null,
       "login": "Sunrisepeak",
-      "contributions": 5900,
-      "recent_commits": 4614
+      "contributions": 6034,
+      "recent_commits": 4740
     },
     {
       "name": "FrozenLemonTee",
@@ -28,8 +28,8 @@
       "name": "ZheFeng7110",
       "email": null,
       "login": "ZheFeng7110",
-      "contributions": 49,
-      "recent_commits": 49
+      "contributions": 52,
+      "recent_commits": 52
     },
     {
       "name": "FarnaHerry",
@@ -42,8 +42,8 @@
       "name": "helantianshen",
       "email": null,
       "login": "helantianshen",
-      "contributions": 35,
-      "recent_commits": 35
+      "contributions": 36,
+      "recent_commits": 36
     },
     {
       "name": "yspbwx2010",
@@ -58,6 +58,13 @@
       "login": "tz12323",
       "contributions": 12,
       "recent_commits": 12
+    },
+    {
+      "name": "Sunrisepeak",
+      "email": "sunrisepeak@xlings.org",
+      "login": null,
+      "contributions": 10,
+      "recent_commits": 10
     },
     {
       "name": "XxingGoD",
@@ -473,6 +480,19 @@
         },
         {
           "name": "tiansongyu",
+          "email": null
+        }
+      ]
+    },
+    "Sunrisepeak/dirun": {
+      "count": 2,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": "sunrisepeak@xlings.org"
+        },
+        {
+          "name": "Sunrisepeak",
           "email": null
         }
       ]
@@ -1114,6 +1134,15 @@
         }
       ]
     },
+    "mcpp-community/mtest": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
     "mcpp-community/nix-mcpp": {
       "count": 1,
       "contributors": [
@@ -1248,6 +1277,15 @@
         {
           "name": "Sunrisepeak",
           "email": null
+        }
+      ]
+    },
+    "mcpplibs/dirun": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": "sunrisepeak@xlings.org"
         }
       ]
     },
@@ -1563,6 +1601,15 @@
         }
       ]
     },
+    "mcpplibs/openkal-freebsd": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
     "mcpplibs/openkal-image": {
       "count": 1,
       "contributors": [
@@ -1626,6 +1673,15 @@
       ]
     },
     "mcpplibs/openkal-platform": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpplibs/openkal-posix": {
       "count": 1,
       "contributors": [
         {
