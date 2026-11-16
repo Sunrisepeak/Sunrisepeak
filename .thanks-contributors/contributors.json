@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.1.0",
-  "count": 49,
+  "count": 50,
   "display": {
     "sort_pinned": [
       "Sunrisepeak"
@@ -14,8 +14,8 @@
       "name": "Sunrisepeak",
       "email": null,
       "login": "Sunrisepeak",
-      "contributions": 6149,
-      "recent_commits": 4856
+      "contributions": 6185,
+      "recent_commits": 4889
     },
     {
       "name": "FrozenLemonTee",
@@ -35,8 +35,8 @@
       "name": "FarnaHerry",
       "email": null,
       "login": "FarnaHerry",
-      "contributions": 40,
-      "recent_commits": 40
+      "contributions": 41,
+      "recent_commits": 41
     },
     {
       "name": "helantianshen",
@@ -109,6 +109,13 @@
       "recent_commits": 4
     },
     {
+      "name": "NopeCharon",
+      "email": null,
+      "login": "NopeCharon",
+      "contributions": 4,
+      "recent_commits": 4
+    },
+    {
       "name": "MoYingJi",
       "email": null,
       "login": "MoYingJi",
@@ -116,16 +123,16 @@
       "recent_commits": 3
     },
     {
-      "name": "duyanta123",
+      "name": "Aimol-l",
       "email": null,
-      "login": "duyanta123",
+      "login": "Aimol-l",
       "contributions": 3,
       "recent_commits": 3
     },
     {
-      "name": "NopeCharon",
+      "name": "duyanta123",
       "email": null,
-      "login": "NopeCharon",
+      "login": "duyanta123",
       "contributions": 3,
       "recent_commits": 3
     },
@@ -140,13 +147,6 @@
       "name": "1115040131",
       "email": null,
       "login": "1115040131",
-      "contributions": 2,
-      "recent_commits": 2
-    },
-    {
-      "name": "Aimol-l",
-      "email": null,
-      "login": "Aimol-l",
       "contributions": 2,
       "recent_commits": 2
     },
@@ -168,6 +168,13 @@
       "name": "lihaoze123",
       "email": null,
       "login": "lihaoze123",
+      "contributions": 2,
+      "recent_commits": 2
+    },
+    {
+      "name": "mybna134",
+      "email": null,
+      "login": "mybna134",
       "contributions": 2,
       "recent_commits": 2
     },
@@ -489,11 +496,11 @@
       "contributors": [
         {
           "name": "Sunrisepeak",
-          "email": "sunrisepeak@xlings.org"
+          "email": null
         },
         {
           "name": "Sunrisepeak",
-          "email": null
+          "email": "sunrisepeak@xlings.org"
         }
       ]
     },
@@ -1152,6 +1159,15 @@
         }
       ]
     },
+    "mcpp-community/setup-mcpp": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
     "mcpp-community/templates": {
       "count": 1,
       "contributors": [
@@ -1575,6 +1591,10 @@
           "email": null
         },
         {
+          "name": "Aimol-l",
+          "email": null
+        },
+        {
           "name": "1115040131",
           "email": null
         },
@@ -1584,10 +1604,6 @@
         },
         {
           "name": "XxingGoD",
-          "email": null
-        },
-        {
-          "name": "Aimol-l",
           "email": null
         },
         {
@@ -1874,11 +1890,15 @@
       ]
     },
     "mcpplibs/recastnavigation-m": {
-      "count": 1,
+      "count": 2,
       "contributors": [
         {
           "name": "Sunrisepeak",
           "email": "speakshen@outlook.com"
+        },
+        {
+          "name": "Sunrisepeak",
+          "email": null
         }
       ]
     },
@@ -2071,7 +2091,7 @@
       ]
     },
     "openxlings/xim-pkgindex": {
-      "count": 8,
+      "count": 9,
       "contributors": [
         {
           "name": "Sunrisepeak",
@@ -2095,6 +2115,10 @@
         },
         {
           "name": "2412322029",
+          "email": null
+        },
+        {
+          "name": "mybna134",
           "email": null
         },
         {
