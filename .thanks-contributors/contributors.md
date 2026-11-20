@@ -291,6 +291,13 @@
 </tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/YandereChan2">
+            <img src="https://avatars.githubusercontent.com/u/160600198?v=4" width="50;" alt="YandereChan2"/>
+            <br />
+            <sub><b>YandereChan2</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/YangQi0408">
             <img src="https://avatars.githubusercontent.com/u/101800498?v=4" width="50;" alt="YangQi0408"/>
             <br />
@@ -351,13 +358,6 @@
             <img src="https://avatars.githubusercontent.com/u/22124581?v=4" width="50;" alt="tiansongyu"/>
             <br />
             <sub><b>tiansongyu</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/zzxzzk115">
-            <img src="https://avatars.githubusercontent.com/u/33739170?v=4" width="50;" alt="zzxzzk115"/>
-            <br />
-            <sub><b>zzxzzk115</b></sub>
         </a>
     </td>
 </tr>
