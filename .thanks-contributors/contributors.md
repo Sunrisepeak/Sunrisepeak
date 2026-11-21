@@ -210,21 +210,14 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/ExquisiteCore">
-            <img src="https://avatars.githubusercontent.com/u/59426890?v=4" width="50;" alt="ExquisiteCore"/>
-            <br />
-            <sub><b>ExquisiteCore</b></sub>
-        </a>
-    </td>
-</tr>
-<tr>
-    <td align="center">
         <a href="https://github.com/HalfAnElephant">
             <img src="https://avatars.githubusercontent.com/u/67222274?v=4" width="50;" alt="HalfAnElephant"/>
             <br />
             <sub><b>HalfAnElephant</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Hebown">
             <img src="https://avatars.githubusercontent.com/u/151939174?v=4" width="50;" alt="Hebown"/>
@@ -288,8 +281,6 @@
             <sub><b>xv1rcn</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/YandereChan2">
             <img src="https://avatars.githubusercontent.com/u/160600198?v=4" width="50;" alt="YandereChan2"/>
@@ -297,6 +288,8 @@
             <sub><b>YandereChan2</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/YangQi0408">
             <img src="https://avatars.githubusercontent.com/u/101800498?v=4" width="50;" alt="YangQi0408"/>
@@ -337,6 +330,13 @@
             <img src="https://avatars.githubusercontent.com/u/109135335?v=4" width="50;" alt="Ankali-Aylina"/>
             <br />
             <sub><b>Ankali-Aylina</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ExquisiteCore">
+            <img src="https://avatars.githubusercontent.com/u/59426890?v=4" width="50;" alt="ExquisiteCore"/>
+            <br />
+            <sub><b>ExquisiteCore</b></sub>
         </a>
     </td>
     <td align="center">
