@@ -103,6 +103,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/mybna134">
+            <img src="https://avatars.githubusercontent.com/u/109588458?v=4" width="50;" alt="mybna134"/>
+            <br />
+            <sub><b>mybna134</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/NopeCharon">
             <img src="https://avatars.githubusercontent.com/u/115794254?v=4" width="50;" alt="NopeCharon"/>
             <br />
@@ -128,13 +135,6 @@
             <img src="https://avatars.githubusercontent.com/u/248092604?v=4" width="50;" alt="duyanta123"/>
             <br />
             <sub><b>duyanta123</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/mybna134">
-            <img src="https://avatars.githubusercontent.com/u/109588458?v=4" width="50;" alt="mybna134"/>
-            <br />
-            <sub><b>mybna134</b></sub>
         </a>
     </td>
     <td align="center">

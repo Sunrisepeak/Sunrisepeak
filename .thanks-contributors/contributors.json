@@ -14,8 +14,8 @@
       "name": "Sunrisepeak",
       "email": null,
       "login": "Sunrisepeak",
-      "contributions": 6413,
-      "recent_commits": 5115
+      "contributions": 6458,
+      "recent_commits": 5147
     },
     {
       "name": "FrozenLemonTee",
@@ -35,8 +35,8 @@
       "name": "FarnaHerry",
       "email": null,
       "login": "FarnaHerry",
-      "contributions": 50,
-      "recent_commits": 50
+      "contributions": 51,
+      "recent_commits": 51
     },
     {
       "name": "helantianshen",
@@ -109,6 +109,13 @@
       "recent_commits": 4
     },
     {
+      "name": "mybna134",
+      "email": null,
+      "login": "mybna134",
+      "contributions": 4,
+      "recent_commits": 4
+    },
+    {
       "name": "NopeCharon",
       "email": null,
       "login": "NopeCharon",
@@ -133,13 +140,6 @@
       "name": "duyanta123",
       "email": null,
       "login": "duyanta123",
-      "contributions": 3,
-      "recent_commits": 3
-    },
-    {
-      "name": "mybna134",
-      "email": null,
-      "login": "mybna134",
       "contributions": 3,
       "recent_commits": 3
     },
@@ -2260,7 +2260,7 @@
       ]
     },
     "openxlings/xlings": {
-      "count": 5,
+      "count": 6,
       "contributors": [
         {
           "name": "Sunrisepeak",
@@ -2280,6 +2280,10 @@
         },
         {
           "name": "YangQi0408",
+          "email": null
+        },
+        {
+          "name": "mybna134",
           "email": null
         }
       ]
