@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.1.0",
-  "count": 51,
+  "count": 66,
   "display": {
     "sort_pinned": [
       "Sunrisepeak"
@@ -14,8 +14,15 @@
       "name": "Sunrisepeak",
       "email": null,
       "login": "Sunrisepeak",
-      "contributions": 6458,
-      "recent_commits": 5147
+      "contributions": 6481,
+      "recent_commits": 5169
+    },
+    {
+      "name": "tylertms",
+      "email": null,
+      "login": "tylertms",
+      "contributions": 7928,
+      "recent_commits": 4945
     },
     {
       "name": "FrozenLemonTee",
@@ -25,6 +32,13 @@
       "recent_commits": 339
     },
     {
+      "name": "FarnaHerry",
+      "email": null,
+      "login": "FarnaHerry",
+      "contributions": 61,
+      "recent_commits": 61
+    },
+    {
       "name": "ZheFeng7110",
       "email": null,
       "login": "ZheFeng7110",
@@ -32,18 +46,18 @@
       "recent_commits": 54
     },
     {
-      "name": "FarnaHerry",
-      "email": null,
-      "login": "FarnaHerry",
-      "contributions": 51,
-      "recent_commits": 51
-    },
-    {
       "name": "helantianshen",
       "email": null,
       "login": "helantianshen",
       "contributions": 37,
       "recent_commits": 37
+    },
+    {
+      "name": "bassrock",
+      "email": null,
+      "login": "bassrock",
+      "contributions": 28,
+      "recent_commits": 28
     },
     {
       "name": "Sunrisepeak",
@@ -123,6 +137,13 @@
       "recent_commits": 4
     },
     {
+      "name": "riftaway7-code",
+      "email": null,
+      "login": "riftaway7-code",
+      "contributions": 4,
+      "recent_commits": 4
+    },
+    {
       "name": "MoYingJi",
       "email": null,
       "login": "MoYingJi",
@@ -144,6 +165,27 @@
       "recent_commits": 3
     },
     {
+      "name": "Palayop7239",
+      "email": null,
+      "login": "Palayop7239",
+      "contributions": 3,
+      "recent_commits": 3
+    },
+    {
+      "name": "root800080",
+      "email": null,
+      "login": "root800080",
+      "contributions": 3,
+      "recent_commits": 3
+    },
+    {
+      "name": "VLDG2712",
+      "email": null,
+      "login": "VLDG2712",
+      "contributions": 3,
+      "recent_commits": 3
+    },
+    {
       "name": "xllmapi-official",
       "email": null,
       "login": "xllmapi-official",
@@ -158,9 +200,30 @@
       "recent_commits": 2
     },
     {
+      "name": "59c84486t9-alt",
+      "email": null,
+      "login": "59c84486t9-alt",
+      "contributions": 2,
+      "recent_commits": 2
+    },
+    {
+      "name": "cn0xroot",
+      "email": null,
+      "login": "cn0xroot",
+      "contributions": 2,
+      "recent_commits": 2
+    },
+    {
       "name": "Creativecole",
       "email": null,
       "login": "Creativecole",
+      "contributions": 2,
+      "recent_commits": 2
+    },
+    {
+      "name": "G-Nug85",
+      "email": null,
+      "login": "G-Nug85",
       "contributions": 2,
       "recent_commits": 2
     },
@@ -172,9 +235,23 @@
       "recent_commits": 2
     },
     {
+      "name": "LBNM-ONE",
+      "email": null,
+      "login": "LBNM-ONE",
+      "contributions": 2,
+      "recent_commits": 2
+    },
+    {
       "name": "lihaoze123",
       "email": null,
       "login": "lihaoze123",
+      "contributions": 2,
+      "recent_commits": 2
+    },
+    {
+      "name": "meuhland",
+      "email": null,
+      "login": "meuhland",
       "contributions": 2,
       "recent_commits": 2
     },
@@ -235,9 +312,23 @@
       "recent_commits": 1
     },
     {
+      "name": "Jakehallmark",
+      "email": null,
+      "login": "Jakehallmark",
+      "contributions": 1,
+      "recent_commits": 1
+    },
+    {
       "name": "johanvx",
       "email": null,
       "login": "johanvx",
+      "contributions": 1,
+      "recent_commits": 1
+    },
+    {
+      "name": "kiki",
+      "email": "duarduar707@gmail.com",
+      "login": null,
       "contributions": 1,
       "recent_commits": 1
     },
@@ -270,9 +361,23 @@
       "recent_commits": 1
     },
     {
+      "name": "sagarkothapalli",
+      "email": null,
+      "login": "sagarkothapalli",
+      "contributions": 1,
+      "recent_commits": 1
+    },
+    {
       "name": "topshihun",
       "email": null,
       "login": "topshihun",
+      "contributions": 1,
+      "recent_commits": 1
+    },
+    {
+      "name": "whitegold",
+      "email": "whitegold@whitegolddemacbook-pro.local",
+      "login": null,
       "contributions": 1,
       "recent_commits": 1
     },
@@ -420,6 +525,71 @@
         {
           "name": "Sunrisepeak",
           "email": null
+        }
+      ]
+    },
+    "Sunrisepeak/Stela": {
+      "count": 15,
+      "contributors": [
+        {
+          "name": "tylertms",
+          "email": null
+        },
+        {
+          "name": "bassrock",
+          "email": null
+        },
+        {
+          "name": "riftaway7-code",
+          "email": null
+        },
+        {
+          "name": "Palayop7239",
+          "email": null
+        },
+        {
+          "name": "VLDG2712",
+          "email": null
+        },
+        {
+          "name": "root800080",
+          "email": null
+        },
+        {
+          "name": "59c84486t9-alt",
+          "email": null
+        },
+        {
+          "name": "G-Nug85",
+          "email": null
+        },
+        {
+          "name": "LBNM-ONE",
+          "email": null
+        },
+        {
+          "name": "meuhland",
+          "email": null
+        },
+        {
+          "name": "cn0xroot",
+          "email": null
+        },
+        {
+          "name": "sagarkothapalli",
+          "email": null
+        },
+        {
+          "name": "Jakehallmark",
+          "email": null
+        },
+        {
+          "name": "kiki",
+          "email": "duarduar707@gmail.com"
+        },
+        {
+          "name": "whitegold",
+          "email": "whitegold@whitegolddemacbook-pro.local"
         }
       ]
     },
