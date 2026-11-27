@@ -14,8 +14,8 @@
       "name": "Sunrisepeak",
       "email": null,
       "login": "Sunrisepeak",
-      "contributions": 6501,
-      "recent_commits": 5189
+      "contributions": 6514,
+      "recent_commits": 5202
     },
     {
       "name": "FrozenLemonTee",
@@ -28,8 +28,8 @@
       "name": "FarnaHerry",
       "email": null,
       "login": "FarnaHerry",
-      "contributions": 204,
-      "recent_commits": 204
+      "contributions": 281,
+      "recent_commits": 281
     },
     {
       "name": "ZheFeng7110",
@@ -98,6 +98,20 @@
       "name": "Aimol-l",
       "email": null,
       "login": "Aimol-l",
+      "contributions": 5,
+      "recent_commits": 5
+    },
+    {
+      "name": "NopeCharon",
+      "email": null,
+      "login": "NopeCharon",
+      "contributions": 5,
+      "recent_commits": 5
+    },
+    {
+      "name": "hiykhello",
+      "email": null,
+      "login": "hiykhello",
       "contributions": 4,
       "recent_commits": 4
     },
@@ -123,13 +137,6 @@
       "recent_commits": 4
     },
     {
-      "name": "NopeCharon",
-      "email": null,
-      "login": "NopeCharon",
-      "contributions": 4,
-      "recent_commits": 4
-    },
-    {
       "name": "MoYingJi",
       "email": null,
       "login": "MoYingJi",
@@ -140,13 +147,6 @@
       "name": "duyanta123",
       "email": null,
       "login": "duyanta123",
-      "contributions": 3,
-      "recent_commits": 3
-    },
-    {
-      "name": "hiykhello",
-      "email": null,
-      "login": "hiykhello",
       "contributions": 3,
       "recent_commits": 3
     },
@@ -2208,15 +2208,15 @@
           "email": null
         },
         {
+          "name": "hiykhello",
+          "email": null
+        },
+        {
           "name": "mybna134",
           "email": null
         },
         {
           "name": "ZheFeng7110",
-          "email": null
-        },
-        {
-          "name": "hiykhello",
           "email": null
         },
         {
